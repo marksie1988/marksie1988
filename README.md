@@ -3,6 +3,11 @@
 [![Website](https://img.shields.io/website?label=totaldebug.uk&style=for-the-badge&url=https%3A%2F%2Ftotaldebug.uk)](https://totaldebug.uk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/marksie1988?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%marksie1988&screen_name=marksie1988)
 
+[![](https://img.shields.io/badge/-@marksie1988-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/marksie1988)
+[![](https://img.shields.io/badge/-@marksie1988-%23181717?style=flat-square&logo=github)](https://github.com/marksie1988)
+[![](https://img.shields.io/badge/-@totaldebug-%23181717?style=flat-square&logo=github)](https://github.com/totaldebug)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=totaldebug.uk&url=https%3A%2F%2Fxlbd.me)](https://totaldebug.uk)
+
 ## I'm a Husband, Father, Developer!!
 
 - 🌱 I’m currently learning Python amongst many other things
@@ -24,14 +29,15 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+![Python](https://img.shields.io/badge/-Python-%234B8BBE?style=flat-square&logo=python&logoColor=ffffff)
+![PowerShell](https://img.shields.io/badge/-PowerShell-%235391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
+![Rollup.js](https://img.shields.io/badge/-Webpack-%23EC4A3F?style=flat-square&logo=rollup.js)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 <br />
 <br />
@@ -43,7 +49,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://totaldebug.uk)
+➡️ [more blog posts...](https://totaldebug.uk/blog/)
 
 ---
 
