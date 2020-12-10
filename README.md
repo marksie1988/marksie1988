@@ -27,7 +27,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
-![Rollup.js](https://img.shields.io/badge/-Rollup.js-%23EC4A3F?style=for-the-badge&logo=rollup.js)
+![Rollup.js](https://img.shields.io/badge/-Rollup.js-%23EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=%23ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 
