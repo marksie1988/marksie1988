@@ -2,11 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=totaldebug.uk&style=for-the-badge&url=https%3A%2F%2Ftotaldebug.uk)](https://totaldebug.uk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/marksie1988?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%marksie1988&screen_name=marksie1988)
-
-[![](https://img.shields.io/badge/-@marksie1988-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/marksie1988)
-[![](https://img.shields.io/badge/-@marksie1988-%23181717?style=flat-square&logo=github)](https://github.com/marksie1988)
-[![](https://img.shields.io/badge/-@totaldebug-%23181717?style=flat-square&logo=github)](https://github.com/totaldebug)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=totaldebug.uk&url=https%3A%2F%2Fxlbd.me)](https://totaldebug.uk)
+[![](https://img.shields.io/badge/-@marksie1988-%23181717?style=for-the-badge&logo=github)](https://github.com/marksie1988)
+[![](https://img.shields.io/badge/-@totaldebug-%23181717?style=for-the-badge&logo=github)](https://github.com/totaldebug)
+[![](https://img.shields.io/badge/-@totaldebug-%23FF0000?style=for-the-badge&logo=youtube)][youtube]
+[![](https://img.shields.io/badge/-@totaldebug-%230077B5?style=for-the-badge&logo=linkedin)][linkedin]
 
 ## I'm a Husband, Father, Developer!!
 
@@ -17,13 +16,6 @@
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.marksie1988.vercel.app/api/spotify)](https://open.spotify.com/user/iqmjb1p8ga54k8ocibpwizgev)
-
-### Connect with me:
-
-[<img align="left" alt="totaldebug.uk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="totaldebug | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="marksie1988 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="marksie1988 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
