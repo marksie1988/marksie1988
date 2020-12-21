@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/totaldebug/ansible-role-minecraft/issues/1) in [totaldebug/ansible-role-minecraft](https://github.com/totaldebug/ansible-role-minecraft)
-2. ❗️ Closed issue [#55](https://github.com/totaldebug/pyarr/issues/55) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-3. ❗️ Closed issue [#57](https://github.com/totaldebug/pyarr/issues/57) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-4. ❗️ Closed issue [#58](https://github.com/totaldebug/pyarr/issues/58) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-5. 🎉 Merged PR [#61](https://github.com/totaldebug/pyarr/pull/61) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+1. ❗️ Closed issue [#347](https://github.com/marksie1988/atomic-calendar-revive/issues/347) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+2. ❗️ Closed issue [#344](https://github.com/marksie1988/atomic-calendar-revive/issues/344) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+3. ❗️ Closed issue [#1](https://github.com/totaldebug/ansible-role-minecraft/issues/1) in [totaldebug/ansible-role-minecraft](https://github.com/totaldebug/ansible-role-minecraft)
+4. ❗️ Closed issue [#55](https://github.com/totaldebug/pyarr/issues/55) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. ❗️ Closed issue [#57](https://github.com/totaldebug/pyarr/issues/57) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 <!--END_SECTION:activity-->
 
 </details>
