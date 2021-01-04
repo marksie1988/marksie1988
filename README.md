@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/totaldebug/cloudflare-ddns/issues/2) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
-2. 🎉 Merged PR [#3](https://github.com/totaldebug/cloudflare-ddns/pull/3) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
-3. 💪 Opened PR [#3](https://github.com/totaldebug/cloudflare-ddns/pull/3) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
-4. ❌ Closed PR [#11](https://github.com/adrienbrignon/cloudflare-ddns/pull/11) in [adrienbrignon/cloudflare-ddns](https://github.com/adrienbrignon/cloudflare-ddns)
-5. 💪 Opened PR [#11](https://github.com/adrienbrignon/cloudflare-ddns/pull/11) in [adrienbrignon/cloudflare-ddns](https://github.com/adrienbrignon/cloudflare-ddns)
+1. 💪 Opened PR [#3](https://github.com/dudo/tag_check/pull/3) in [dudo/tag_check](https://github.com/dudo/tag_check)
+2. ❗️ Closed issue [#2](https://github.com/totaldebug/cloudflare-ddns/issues/2) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
+3. 🎉 Merged PR [#3](https://github.com/totaldebug/cloudflare-ddns/pull/3) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
+4. 💪 Opened PR [#3](https://github.com/totaldebug/cloudflare-ddns/pull/3) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
+5. ❌ Closed PR [#11](https://github.com/adrienbrignon/cloudflare-ddns/pull/11) in [adrienbrignon/cloudflare-ddns](https://github.com/adrienbrignon/cloudflare-ddns)
 <!--END_SECTION:activity-->
 
 </details>
