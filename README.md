@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/ErinMorelli/em-plex-updater/issues/3) in [ErinMorelli/em-plex-updater](https://github.com/ErinMorelli/em-plex-updater)
-2. ❗️ Closed issue [#1](https://github.com/jvalecillos/cakephp-yalp/issues/1) in [jvalecillos/cakephp-yalp](https://github.com/jvalecillos/cakephp-yalp)
-3. ❗️ Closed issue [#33](https://github.com/black-mirror-1/singlestat-math/issues/33) in [black-mirror-1/singlestat-math](https://github.com/black-mirror-1/singlestat-math)
-4. ❗️ Closed issue [#24](https://github.com/helto4real/hassio-add-ons/issues/24) in [helto4real/hassio-add-ons](https://github.com/helto4real/hassio-add-ons)
-5. 💪 Opened PR [#3](https://github.com/dudo/tag_check/pull/3) in [dudo/tag_check](https://github.com/dudo/tag_check)
+1. ❗️ Opened issue [#1](https://github.com/totaldebug/ansible-role-motd/issues/1) in [totaldebug/ansible-role-motd](https://github.com/totaldebug/ansible-role-motd)
+2. ❗️ Closed issue [#3](https://github.com/ErinMorelli/em-plex-updater/issues/3) in [ErinMorelli/em-plex-updater](https://github.com/ErinMorelli/em-plex-updater)
+3. ❗️ Closed issue [#1](https://github.com/jvalecillos/cakephp-yalp/issues/1) in [jvalecillos/cakephp-yalp](https://github.com/jvalecillos/cakephp-yalp)
+4. ❗️ Closed issue [#33](https://github.com/black-mirror-1/singlestat-math/issues/33) in [black-mirror-1/singlestat-math](https://github.com/black-mirror-1/singlestat-math)
+5. ❗️ Closed issue [#24](https://github.com/helto4real/hassio-add-ons/issues/24) in [helto4real/hassio-add-ons](https://github.com/helto4real/hassio-add-ons)
 <!--END_SECTION:activity-->
 
 </details>
