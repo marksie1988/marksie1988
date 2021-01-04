@@ -39,7 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Git like a pro!](/posts/utilising-git-like-a-pro/)
+- [Use Git like a pro!](/posts/use-git-like-a-pro/)
 - [Use GitHub pages with unsupported plugins](/posts/use-github-pages-with-unsupported-plugins/)
 - [Docker Overlay2 with CentOS for production](/docker-overlay2-with-centos-for-production/)
 - [3d Printer Axes Calibration](/3d-printer-axes-calibration/)
