@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#371](https://github.com/marksie1988/atomic-calendar-revive/pull/371) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-2. 💪 Opened PR [#371](https://github.com/marksie1988/atomic-calendar-revive/pull/371) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-3. 🎉 Merged PR [#369](https://github.com/marksie1988/atomic-calendar-revive/pull/369) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-4. ❗️ Opened issue [#370](https://github.com/marksie1988/atomic-calendar-revive/issues/370) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-5. ❗️ Closed issue [#1](https://github.com/totaldebug/ansible-role-motd/issues/1) in [totaldebug/ansible-role-motd](https://github.com/totaldebug/ansible-role-motd)
+1. ❗️ Opened issue [#372](https://github.com/marksie1988/atomic-calendar-revive/issues/372) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+2. ❗️ Opened issue [#2](https://github.com/marksie1988/dotfiles/issues/2) in [marksie1988/dotfiles](https://github.com/marksie1988/dotfiles)
+3. ❗️ Opened issue [#1](https://github.com/marksie1988/.github/issues/1) in [marksie1988/.github](https://github.com/marksie1988/.github)
+4. 🎉 Merged PR [#371](https://github.com/marksie1988/atomic-calendar-revive/pull/371) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+5. 💪 Opened PR [#371](https://github.com/marksie1988/atomic-calendar-revive/pull/371) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
