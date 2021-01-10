@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/totaldebug/cloudflare-ddns/pull/5) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
-2. 💪 Opened PR [#5](https://github.com/totaldebug/cloudflare-ddns/pull/5) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
-3. ❗️ Closed issue [#4](https://github.com/totaldebug/cloudflare-ddns/issues/4) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
-4. ❗️ Opened issue [#4](https://github.com/totaldebug/cloudflare-ddns/issues/4) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
-5. ❗️ Opened issue [#372](https://github.com/marksie1988/atomic-calendar-revive/issues/372) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+1. 🗣 Commented on [#372](https://github.com/marksie1988/atomic-calendar-revive/issues/372) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+2. ❗️ Closed issue [#1](https://github.com/marksie1988/.github/issues/1) in [marksie1988/.github](https://github.com/marksie1988/.github)
+3. 🗣 Commented on [#1](https://github.com/marksie1988/.github/issues/1) in [marksie1988/.github](https://github.com/marksie1988/.github)
+4. ❗️ Opened issue [#6](https://github.com/totaldebug/cloudflare-ddns/issues/6) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
+5. ❗️ Closed issue [#1](https://github.com/totaldebug/cloudflare-ddns/issues/1) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
 <!--END_SECTION:activity-->
 
 </details>
