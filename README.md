@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#373](https://github.com/marksie1988/atomic-calendar-revive/pull/373) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-2. 💪 Opened PR [#373](https://github.com/marksie1988/atomic-calendar-revive/pull/373) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-3. 🗣 Commented on [#372](https://github.com/marksie1988/atomic-calendar-revive/issues/372) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-4. ❗️ Closed issue [#1](https://github.com/marksie1988/.github/issues/1) in [marksie1988/.github](https://github.com/marksie1988/.github)
-5. 🗣 Commented on [#1](https://github.com/marksie1988/.github/issues/1) in [marksie1988/.github](https://github.com/marksie1988/.github)
+1. ❗️ Opened issue [#374](https://github.com/marksie1988/atomic-calendar-revive/issues/374) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+2. 🎉 Merged PR [#373](https://github.com/marksie1988/atomic-calendar-revive/pull/373) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+3. 💪 Opened PR [#373](https://github.com/marksie1988/atomic-calendar-revive/pull/373) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+4. 🗣 Commented on [#372](https://github.com/marksie1988/atomic-calendar-revive/issues/372) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+5. ❗️ Closed issue [#1](https://github.com/marksie1988/.github/issues/1) in [marksie1988/.github](https://github.com/marksie1988/.github)
 <!--END_SECTION:activity-->
 
 </details>
