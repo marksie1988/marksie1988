@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#167](https://github.com/mikepenz/release-changelog-builder-action/issues/167) in [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action)
-2. 🎉 Merged PR [#383](https://github.com/marksie1988/atomic-calendar-revive/pull/383) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-3. 🗣 Commented on [#167](https://github.com/mikepenz/release-changelog-builder-action/issues/167) in [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action)
-4. ❗️ Opened issue [#167](https://github.com/mikepenz/release-changelog-builder-action/issues/167) in [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action)
-5. 🗣 Commented on [#384](https://github.com/marksie1988/atomic-calendar-revive/issues/384) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+1. ❗️ Opened issue [#18](https://github.com/probot/actions-adapter/issues/18) in [probot/actions-adapter](https://github.com/probot/actions-adapter)
+2. 🗣 Commented on [#167](https://github.com/mikepenz/release-changelog-builder-action/issues/167) in [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action)
+3. 🎉 Merged PR [#383](https://github.com/marksie1988/atomic-calendar-revive/pull/383) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+4. 🗣 Commented on [#167](https://github.com/mikepenz/release-changelog-builder-action/issues/167) in [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action)
+5. ❗️ Opened issue [#167](https://github.com/mikepenz/release-changelog-builder-action/issues/167) in [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action)
 <!--END_SECTION:activity-->
 
 </details>
