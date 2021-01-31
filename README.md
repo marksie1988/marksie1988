@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#402](https://github.com/marksie1988/atomic-calendar-revive/issues/402) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-2. ❗️ Opened issue [#402](https://github.com/marksie1988/atomic-calendar-revive/issues/402) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-3. ❗️ Closed issue [#29](https://github.com/marksie1988/atomic-calendar-revive/issues/29) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-4. ❗️ Closed issue [#377](https://github.com/marksie1988/atomic-calendar-revive/issues/377) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-5. 🗣 Commented on [#377](https://github.com/marksie1988/atomic-calendar-revive/issues/377) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+1. 🗣 Commented on [#398](https://github.com/marksie1988/atomic-calendar-revive/issues/398) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+2. 🗣 Commented on [#402](https://github.com/marksie1988/atomic-calendar-revive/issues/402) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+3. ❗️ Opened issue [#402](https://github.com/marksie1988/atomic-calendar-revive/issues/402) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+4. ❗️ Closed issue [#29](https://github.com/marksie1988/atomic-calendar-revive/issues/29) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+5. ❗️ Closed issue [#377](https://github.com/marksie1988/atomic-calendar-revive/issues/377) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
