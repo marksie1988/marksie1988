@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/totaldebug/ansible-role-hassio/pull/1) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
-2. 💪 Opened PR [#1](https://github.com/totaldebug/ansible-role-hassio/pull/1) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
-3. ❌ Closed PR [#3](https://github.com/MonolithProjects/ansible-hassio/pull/3) in [MonolithProjects/ansible-hassio](https://github.com/MonolithProjects/ansible-hassio)
-4. 💪 Opened PR [#3](https://github.com/MonolithProjects/ansible-hassio/pull/3) in [MonolithProjects/ansible-hassio](https://github.com/MonolithProjects/ansible-hassio)
-5. 🗣 Commented on [#404](https://github.com/marksie1988/atomic-calendar-revive/issues/404) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+1. ❗️ Opened issue [#2609](https://github.com/ansible/galaxy/issues/2609) in [ansible/galaxy](https://github.com/ansible/galaxy)
+2. 🎉 Merged PR [#1](https://github.com/totaldebug/ansible-role-hassio/pull/1) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
+3. 💪 Opened PR [#1](https://github.com/totaldebug/ansible-role-hassio/pull/1) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
+4. ❌ Closed PR [#3](https://github.com/MonolithProjects/ansible-hassio/pull/3) in [MonolithProjects/ansible-hassio](https://github.com/MonolithProjects/ansible-hassio)
+5. 💪 Opened PR [#3](https://github.com/MonolithProjects/ansible-hassio/pull/3) in [MonolithProjects/ansible-hassio](https://github.com/MonolithProjects/ansible-hassio)
 <!--END_SECTION:activity-->
 
 </details>
