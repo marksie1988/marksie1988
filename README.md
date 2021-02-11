@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2609](https://github.com/ansible/galaxy/issues/2609) in [ansible/galaxy](https://github.com/ansible/galaxy)
-2. 🗣 Commented on [#2609](https://github.com/ansible/galaxy/issues/2609) in [ansible/galaxy](https://github.com/ansible/galaxy)
-3. ❗️ Closed issue [#404](https://github.com/marksie1988/atomic-calendar-revive/issues/404) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-4. ❗️ Opened issue [#2609](https://github.com/ansible/galaxy/issues/2609) in [ansible/galaxy](https://github.com/ansible/galaxy)
-5. 🎉 Merged PR [#1](https://github.com/totaldebug/ansible-role-hassio/pull/1) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
+1. 🎉 Merged PR [#1](https://github.com/totaldebug/ansible-module-hassio/pull/1) in [totaldebug/ansible-module-hassio](https://github.com/totaldebug/ansible-module-hassio)
+2. 💪 Opened PR [#1](https://github.com/totaldebug/ansible-module-hassio/pull/1) in [totaldebug/ansible-module-hassio](https://github.com/totaldebug/ansible-module-hassio)
+3. ❗️ Closed issue [#2609](https://github.com/ansible/galaxy/issues/2609) in [ansible/galaxy](https://github.com/ansible/galaxy)
+4. 🗣 Commented on [#2609](https://github.com/ansible/galaxy/issues/2609) in [ansible/galaxy](https://github.com/ansible/galaxy)
+5. ❗️ Closed issue [#404](https://github.com/marksie1988/atomic-calendar-revive/issues/404) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
