@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/totaldebug/ansible-role-deluge/pull/1) in [totaldebug/ansible-role-deluge](https://github.com/totaldebug/ansible-role-deluge)
-2. ❗️ Opened issue [#1](https://github.com/totaldebug/ansible-role-hassio/issues/1) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
-3. 🎉 Merged PR [#2](https://github.com/totaldebug/ansible-module-hassio/pull/2) in [totaldebug/ansible-module-hassio](https://github.com/totaldebug/ansible-module-hassio)
-4. 💪 Opened PR [#2](https://github.com/totaldebug/ansible-module-hassio/pull/2) in [totaldebug/ansible-module-hassio](https://github.com/totaldebug/ansible-module-hassio)
-5. 🎉 Merged PR [#1](https://github.com/totaldebug/ansible-module-hassio/pull/1) in [totaldebug/ansible-module-hassio](https://github.com/totaldebug/ansible-module-hassio)
+1. 💪 Opened PR [#1](https://github.com/totaldebug/ansible-module-hassio/pull/1) in [totaldebug/ansible-module-hassio](https://github.com/totaldebug/ansible-module-hassio)
+2. 🎉 Merged PR [#1](https://github.com/totaldebug/ansible-role-deluge/pull/1) in [totaldebug/ansible-role-deluge](https://github.com/totaldebug/ansible-role-deluge)
+3. ❗️ Opened issue [#1](https://github.com/totaldebug/ansible-role-hassio/issues/1) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
+4. 🎉 Merged PR [#2](https://github.com/totaldebug/ansible-module-hassio/pull/2) in [totaldebug/ansible-module-hassio](https://github.com/totaldebug/ansible-module-hassio)
+5. 💪 Opened PR [#2](https://github.com/totaldebug/ansible-module-hassio/pull/2) in [totaldebug/ansible-module-hassio](https://github.com/totaldebug/ansible-module-hassio)
 <!--END_SECTION:activity-->
 
 </details>
