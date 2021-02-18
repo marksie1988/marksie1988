@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/2) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
-2. 🎉 Merged PR [#1](https://github.com/totaldebug/ansible-module-hassio/pull/1) in [totaldebug/ansible-module-hassio](https://github.com/totaldebug/ansible-module-hassio)
-3. 💪 Opened PR [#1](https://github.com/totaldebug/ansible-module-hassio/pull/1) in [totaldebug/ansible-module-hassio](https://github.com/totaldebug/ansible-module-hassio)
-4. 🎉 Merged PR [#1](https://github.com/totaldebug/ansible-role-deluge/pull/1) in [totaldebug/ansible-role-deluge](https://github.com/totaldebug/ansible-role-deluge)
-5. ❗️ Opened issue [#1](https://github.com/totaldebug/ansible-role-hassio/issues/1) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
+1. 🎉 Merged PR [#2](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/2) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
+2. 💪 Opened PR [#2](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/2) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
+3. 🎉 Merged PR [#1](https://github.com/totaldebug/ansible-module-hassio/pull/1) in [totaldebug/ansible-module-hassio](https://github.com/totaldebug/ansible-module-hassio)
+4. 💪 Opened PR [#1](https://github.com/totaldebug/ansible-module-hassio/pull/1) in [totaldebug/ansible-module-hassio](https://github.com/totaldebug/ansible-module-hassio)
+5. 🎉 Merged PR [#1](https://github.com/totaldebug/ansible-role-deluge/pull/1) in [totaldebug/ansible-role-deluge](https://github.com/totaldebug/ansible-role-deluge)
 <!--END_SECTION:activity-->
 
 </details>
