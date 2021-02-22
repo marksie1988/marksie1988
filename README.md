@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#410](https://github.com/marksie1988/atomic-calendar-revive/pull/410) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-2. 🎉 Merged PR [#408](https://github.com/marksie1988/atomic-calendar-revive/pull/408) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-3. 🎉 Merged PR [#2](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/2) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
-4. 💪 Opened PR [#2](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/2) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
-5. 🎉 Merged PR [#1](https://github.com/totaldebug/ansible-module-hassio/pull/1) in [totaldebug/ansible-module-hassio](https://github.com/totaldebug/ansible-module-hassio)
+1. ❗️ Opened issue [#3](https://github.com/totaldebug/ansible-collection-hassio_cli/issues/3) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
+2. 🎉 Merged PR [#410](https://github.com/marksie1988/atomic-calendar-revive/pull/410) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+3. 🎉 Merged PR [#408](https://github.com/marksie1988/atomic-calendar-revive/pull/408) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+4. 🎉 Merged PR [#2](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/2) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
+5. 💪 Opened PR [#2](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/2) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
 <!--END_SECTION:activity-->
 
 </details>
