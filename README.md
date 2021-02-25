@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Git like a pro!](/posts/use-git-like-a-pro/)
-- [Use GitHub pages with unsupported plugins](/posts/use-github-pages-with-unsupported-plugins/)
-- [Docker Overlay2 with CentOS for production](/docker-overlay2-with-centos-for-production/)
-- [3d Printer Axes Calibration](/3d-printer-axes-calibration/)
-- [I won a Ender 3 3D Printer and i’m addicted](/i-won-a-ender-3-3d-printer-and-im-addicted/)
+- [Use Git like a pro!](https://totaldebug.uk/posts/use-git-like-a-pro/)
+- [Use GitHub pages with unsupported plugins](https://totaldebug.uk/posts/use-github-pages-with-unsupported-plugins/)
+- [Docker Overlay2 with CentOS for production](https://totaldebug.uk/docker-overlay2-with-centos-for-production/)
+- [3d Printer Axes Calibration](https://totaldebug.uk/3d-printer-axes-calibration/)
+- [I won a Ender 3 3D Printer and i’m addicted](https://totaldebug.uk/i-won-a-ender-3-3d-printer-and-im-addicted/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://totaldebug.uk/blog/)
