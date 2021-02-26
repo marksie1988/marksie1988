@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/marksie1988/jekyll-theme-fresh/issues/3) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
-2. ❗️ Opened issue [#2](https://github.com/marksie1988/jekyll-theme-fresh/issues/2) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
-3. ❗️ Opened issue [#1](https://github.com/marksie1988/jekyll-theme-fresh/issues/1) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
-4. 🗣 Commented on [#409](https://github.com/marksie1988/atomic-calendar-revive/issues/409) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-5. 🗣 Commented on [#403](https://github.com/marksie1988/atomic-calendar-revive/issues/403) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+1. ❗️ Closed issue [#1](https://github.com/marksie1988/jekyll-theme-fresh/issues/1) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
+2. 🗣 Commented on [#1](https://github.com/marksie1988/jekyll-theme-fresh/issues/1) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
+3. ❗️ Closed issue [#2](https://github.com/marksie1988/jekyll-theme-fresh/issues/2) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
+4. 🗣 Commented on [#2](https://github.com/marksie1988/jekyll-theme-fresh/issues/2) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
+5. 🎉 Merged PR [#4](https://github.com/marksie1988/jekyll-theme-fresh/pull/4) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
 <!--END_SECTION:activity-->
 
 </details>
