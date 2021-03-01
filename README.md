@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#81](https://github.com/helaili/jekyll-action/issues/81) in [helaili/jekyll-action](https://github.com/helaili/jekyll-action)
-2. ❗️ Closed issue [#1](https://github.com/marksie1988/jekyll-theme-fresh/issues/1) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
-3. 🗣 Commented on [#1](https://github.com/marksie1988/jekyll-theme-fresh/issues/1) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
-4. ❗️ Closed issue [#2](https://github.com/marksie1988/jekyll-theme-fresh/issues/2) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
-5. 🗣 Commented on [#2](https://github.com/marksie1988/jekyll-theme-fresh/issues/2) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
+1. 🎉 Merged PR [#5](https://github.com/marksie1988/jekyll-theme-fresh/pull/5) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
+2. 💪 Opened PR [#5](https://github.com/marksie1988/jekyll-theme-fresh/pull/5) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
+3. ❗️ Opened issue [#81](https://github.com/helaili/jekyll-action/issues/81) in [helaili/jekyll-action](https://github.com/helaili/jekyll-action)
+4. ❗️ Closed issue [#1](https://github.com/marksie1988/jekyll-theme-fresh/issues/1) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
+5. 🗣 Commented on [#1](https://github.com/marksie1988/jekyll-theme-fresh/issues/1) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
 <!--END_SECTION:activity-->
 
 </details>
