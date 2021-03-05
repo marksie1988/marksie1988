@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#407](https://github.com/marksie1988/atomic-calendar-revive/issues/407) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-2. 🗣 Commented on [#411](https://github.com/marksie1988/atomic-calendar-revive/issues/411) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-3. 🎉 Merged PR [#5](https://github.com/marksie1988/jekyll-theme-fresh/pull/5) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
-4. 💪 Opened PR [#5](https://github.com/marksie1988/jekyll-theme-fresh/pull/5) in [marksie1988/jekyll-theme-fresh](https://github.com/marksie1988/jekyll-theme-fresh)
-5. ❗️ Opened issue [#81](https://github.com/helaili/jekyll-action/issues/81) in [helaili/jekyll-action](https://github.com/helaili/jekyll-action)
+1. 🎉 Merged PR [#413](https://github.com/marksie1988/atomic-calendar-revive/pull/413) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+2. ❗️ Closed issue [#407](https://github.com/marksie1988/atomic-calendar-revive/issues/407) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+3. 💪 Opened PR [#413](https://github.com/marksie1988/atomic-calendar-revive/pull/413) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+4. 🗣 Commented on [#411](https://github.com/marksie1988/atomic-calendar-revive/issues/411) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+5. 🗣 Commented on [#412](https://github.com/marksie1988/atomic-calendar-revive/issues/412) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
