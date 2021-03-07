@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/totaldebug/pyarr/pull/65) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-2. 🎉 Merged PR [#63](https://github.com/totaldebug/pyarr/pull/63) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-3. 🎉 Merged PR [#64](https://github.com/totaldebug/pyarr/pull/64) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-4. 🗣 Commented on [#63](https://github.com/totaldebug/pyarr/issues/63) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-5. 💪 Opened PR [#4](https://github.com/dudo/tag_check/pull/4) in [dudo/tag_check](https://github.com/dudo/tag_check)
+1. 🎉 Merged PR [#66](https://github.com/totaldebug/pyarr/pull/66) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+2. ❗️ Closed issue [#62](https://github.com/totaldebug/pyarr/issues/62) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+3. 💪 Opened PR [#66](https://github.com/totaldebug/pyarr/pull/66) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+4. 🗣 Commented on [#62](https://github.com/totaldebug/pyarr/issues/62) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🗣 Commented on [#62](https://github.com/totaldebug/pyarr/issues/62) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 <!--END_SECTION:activity-->
 
 </details>
