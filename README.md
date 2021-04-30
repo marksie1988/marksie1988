@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/totaldebug/ansible-collection-hassio_cli/issues/4) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
+1. 🗣 Commented on [#3](https://github.com/totaldebug/ansible-collection-hassio_cli/issues/3) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
 2. 🗣 Commented on [#4](https://github.com/totaldebug/ansible-collection-hassio_cli/issues/4) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
-3. 🎉 Merged PR [#420](https://github.com/marksie1988/atomic-calendar-revive/pull/420) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-4. 🗣 Commented on [#416](https://github.com/marksie1988/atomic-calendar-revive/issues/416) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-5. ❗️ Opened issue [#67](https://github.com/totaldebug/pyarr/issues/67) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+3. 🗣 Commented on [#4](https://github.com/totaldebug/ansible-collection-hassio_cli/issues/4) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
+4. 🎉 Merged PR [#420](https://github.com/marksie1988/atomic-calendar-revive/pull/420) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+5. 🗣 Commented on [#416](https://github.com/marksie1988/atomic-calendar-revive/issues/416) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
