@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/totaldebug/pyarr/issues/67) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-2. 🗣 Commented on [#67](https://github.com/totaldebug/pyarr/issues/67) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-3. 🗣 Commented on [#30](https://github.com/totaldebug/pyarr/issues/30) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-4. 🗣 Commented on [#3](https://github.com/totaldebug/ansible-collection-hassio_cli/issues/3) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
-5. 🗣 Commented on [#4](https://github.com/totaldebug/ansible-collection-hassio_cli/issues/4) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
+1. 🎉 Merged PR [#7](https://github.com/totaldebug/cloudflare-ddns/pull/7) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
+2. 💪 Opened PR [#7](https://github.com/totaldebug/cloudflare-ddns/pull/7) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
+3. 🗣 Commented on [#67](https://github.com/totaldebug/pyarr/issues/67) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+4. 🗣 Commented on [#67](https://github.com/totaldebug/pyarr/issues/67) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🗣 Commented on [#30](https://github.com/totaldebug/pyarr/issues/30) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 <!--END_SECTION:activity-->
 
 </details>
