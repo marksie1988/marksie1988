@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/totaldebug/cloudflare-ddns/pull/7) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
-2. 💪 Opened PR [#7](https://github.com/totaldebug/cloudflare-ddns/pull/7) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
-3. 🗣 Commented on [#67](https://github.com/totaldebug/pyarr/issues/67) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-4. 🗣 Commented on [#67](https://github.com/totaldebug/pyarr/issues/67) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-5. 🗣 Commented on [#30](https://github.com/totaldebug/pyarr/issues/30) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+1. 🎉 Merged PR [#423](https://github.com/marksie1988/atomic-calendar-revive/pull/423) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+2. 🎉 Merged PR [#422](https://github.com/marksie1988/atomic-calendar-revive/pull/422) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+3. 🎉 Merged PR [#421](https://github.com/marksie1988/atomic-calendar-revive/pull/421) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+4. 🎉 Merged PR [#424](https://github.com/marksie1988/atomic-calendar-revive/pull/424) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+5. 🎉 Merged PR [#7](https://github.com/totaldebug/cloudflare-ddns/pull/7) in [totaldebug/cloudflare-ddns](https://github.com/totaldebug/cloudflare-ddns)
 <!--END_SECTION:activity-->
 
 </details>
