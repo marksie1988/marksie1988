@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sqitch, Sensible database change management](https://totaldebug.uk/posts/sqitch-sensible-database-change-management/)
 - [Using CloneZilla to migrate multiple disk server](https://totaldebug.uk/posts/using-clonezilla-to-migrate-multi-disk-server/)
 - [Use Git like a pro!](https://totaldebug.uk/posts/use-git-like-a-pro/)
 - [Use GitHub pages with unsupported plugins](https://totaldebug.uk/posts/use-github-pages-with-unsupported-plugins/)
 - [Docker Overlay2 with CentOS for production](https://totaldebug.uk/posts/docker-overlay2-with-centos-for-production/)
-- [3d Printer Axes Calibration](https://totaldebug.uk/posts/3d-printer-axes-calibration/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://totaldebug.uk/blog/)
