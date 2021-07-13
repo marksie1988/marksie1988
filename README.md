@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#456](https://github.com/marksie1988/atomic-calendar-revive/issues/456) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-2. 🗣 Commented on [#72](https://github.com/totaldebug/pyarr/issues/72) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-3. 🎉 Merged PR [#2](https://github.com/totaldebug/totaldebug.uk/pull/2) in [totaldebug/totaldebug.uk](https://github.com/totaldebug/totaldebug.uk)
-4. 💪 Opened PR [#2](https://github.com/totaldebug/totaldebug.uk/pull/2) in [totaldebug/totaldebug.uk](https://github.com/totaldebug/totaldebug.uk)
-5. ❗️ Closed issue [#444](https://github.com/marksie1988/atomic-calendar-revive/issues/444) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+1. 🗣 Commented on [#35](https://github.com/custom-cards/custom-card-helpers/issues/35) in [custom-cards/custom-card-helpers](https://github.com/custom-cards/custom-card-helpers)
+2. 🗣 Commented on [#454](https://github.com/marksie1988/atomic-calendar-revive/issues/454) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+3. 🗣 Commented on [#456](https://github.com/marksie1988/atomic-calendar-revive/issues/456) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+4. 🎉 Merged PR [#457](https://github.com/marksie1988/atomic-calendar-revive/pull/457) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+5. ❗️ Closed issue [#455](https://github.com/marksie1988/atomic-calendar-revive/issues/455) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
