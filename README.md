@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#462](https://github.com/marksie1988/atomic-calendar-revive/issues/462) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-2. 🎉 Merged PR [#1](https://github.com/totaldebug/sphinx-publish-action/pull/1) in [totaldebug/sphinx-publish-action](https://github.com/totaldebug/sphinx-publish-action)
-3. 💪 Opened PR [#1](https://github.com/totaldebug/sphinx-publish-action/pull/1) in [totaldebug/sphinx-publish-action](https://github.com/totaldebug/sphinx-publish-action)
-4. 🗣 Commented on [#462](https://github.com/marksie1988/atomic-calendar-revive/issues/462) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-5. 🎉 Merged PR [#77](https://github.com/totaldebug/pyarr/pull/77) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+1. 🎉 Merged PR [#460](https://github.com/marksie1988/atomic-calendar-revive/pull/460) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+2. 🎉 Merged PR [#466](https://github.com/marksie1988/atomic-calendar-revive/pull/466) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+3. ❗️ Closed issue [#462](https://github.com/marksie1988/atomic-calendar-revive/issues/462) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+4. 🎉 Merged PR [#1](https://github.com/totaldebug/sphinx-publish-action/pull/1) in [totaldebug/sphinx-publish-action](https://github.com/totaldebug/sphinx-publish-action)
+5. 💪 Opened PR [#1](https://github.com/totaldebug/sphinx-publish-action/pull/1) in [totaldebug/sphinx-publish-action](https://github.com/totaldebug/sphinx-publish-action)
 <!--END_SECTION:activity-->
 
 </details>
