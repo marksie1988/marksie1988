@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#459](https://github.com/marksie1988/atomic-calendar-revive/pull/459) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+1. 🎉 Merged PR [#78](https://github.com/totaldebug/pyarr/pull/78) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 2. 🗣 Commented on [#78](https://github.com/totaldebug/pyarr/issues/78) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-3. 🎉 Merged PR [#460](https://github.com/marksie1988/atomic-calendar-revive/pull/460) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-4. 🎉 Merged PR [#466](https://github.com/marksie1988/atomic-calendar-revive/pull/466) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-5. ❗️ Closed issue [#462](https://github.com/marksie1988/atomic-calendar-revive/issues/462) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+3. 🎉 Merged PR [#459](https://github.com/marksie1988/atomic-calendar-revive/pull/459) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+4. 🗣 Commented on [#78](https://github.com/totaldebug/pyarr/issues/78) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🎉 Merged PR [#460](https://github.com/marksie1988/atomic-calendar-revive/pull/460) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
