@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#469](https://github.com/marksie1988/atomic-calendar-revive/issues/469) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-2. 🗣 Commented on [#469](https://github.com/marksie1988/atomic-calendar-revive/issues/469) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-3. 🎉 Merged PR [#1](https://github.com/totaldebug/ansible-role-users/pull/1) in [totaldebug/ansible-role-users](https://github.com/totaldebug/ansible-role-users)
-4. 💪 Opened PR [#1](https://github.com/totaldebug/ansible-role-users/pull/1) in [totaldebug/ansible-role-users](https://github.com/totaldebug/ansible-role-users)
-5. 🗣 Commented on [#445](https://github.com/marksie1988/atomic-calendar-revive/issues/445) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+1. 🎉 Merged PR [#2](https://github.com/totaldebug/ansible-role-deluge/pull/2) in [totaldebug/ansible-role-deluge](https://github.com/totaldebug/ansible-role-deluge)
+2. 💪 Opened PR [#2](https://github.com/totaldebug/ansible-role-deluge/pull/2) in [totaldebug/ansible-role-deluge](https://github.com/totaldebug/ansible-role-deluge)
+3. 🗣 Commented on [#469](https://github.com/marksie1988/atomic-calendar-revive/issues/469) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+4. 🗣 Commented on [#469](https://github.com/marksie1988/atomic-calendar-revive/issues/469) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+5. 🎉 Merged PR [#1](https://github.com/totaldebug/ansible-role-users/pull/1) in [totaldebug/ansible-role-users](https://github.com/totaldebug/ansible-role-users)
 <!--END_SECTION:activity-->
 
 </details>
