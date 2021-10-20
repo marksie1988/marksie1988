@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#513](https://github.com/marksie1988/atomic-calendar-revive/issues/513) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-2. ❗️ Opened issue [#513](https://github.com/marksie1988/atomic-calendar-revive/issues/513) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-3. 🗣 Commented on [#409](https://github.com/marksie1988/atomic-calendar-revive/issues/409) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-4. 🗣 Commented on [#412](https://github.com/marksie1988/atomic-calendar-revive/issues/412) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
-5. 🗣 Commented on [#40127](https://github.com/home-assistant/core/issues/40127) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🗣 Commented on [#45](https://github.com/gipong/grafana-groupedbarchart-panel/issues/45) in [gipong/grafana-groupedbarchart-panel](https://github.com/gipong/grafana-groupedbarchart-panel)
+2. 🗣 Commented on [#513](https://github.com/marksie1988/atomic-calendar-revive/issues/513) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+3. ❗️ Opened issue [#513](https://github.com/marksie1988/atomic-calendar-revive/issues/513) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+4. 🗣 Commented on [#409](https://github.com/marksie1988/atomic-calendar-revive/issues/409) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
+5. 🗣 Commented on [#412](https://github.com/marksie1988/atomic-calendar-revive/issues/412) in [marksie1988/atomic-calendar-revive](https://github.com/marksie1988/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
