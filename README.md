@@ -13,12 +13,6 @@
 - 👯 I’m looking to collaborate with other developers to progress
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.marksie1988.vercel.app/api/spotify)](https://open.spotify.com/user/iqmjb1p8ga54k8ocibpwizgev)
-
-<br />
-
 ### Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-%234B8BBE?style=for-the-badge&logo=python&logoColor=ffffff)
