@@ -48,11 +48,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/totaldebug/pyarr/issues/80) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+1. 🎉 Merged PR [#528](https://github.com/totaldebug/atomic-calendar-revive/pull/528) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 2. 🗣 Commented on [#80](https://github.com/totaldebug/pyarr/issues/80) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-3. 🗣 Commented on [#2](https://github.com/totaldebug/ansible-role-hassio/issues/2) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
+3. 🗣 Commented on [#80](https://github.com/totaldebug/pyarr/issues/80) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 4. 🗣 Commented on [#2](https://github.com/totaldebug/ansible-role-hassio/issues/2) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
-5. 🗣 Commented on [#90](https://github.com/totaldebug/pyarr/issues/90) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🗣 Commented on [#2](https://github.com/totaldebug/ansible-role-hassio/issues/2) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
 <!--END_SECTION:activity-->
 
 </details>
