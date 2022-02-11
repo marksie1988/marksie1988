@@ -49,10 +49,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#561](https://github.com/totaldebug/atomic-calendar-revive/issues/561) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🗣 Commented on [#554](https://github.com/totaldebug/atomic-calendar-revive/issues/554) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. ❗️ Closed issue [#96](https://github.com/totaldebug/pyarr/issues/96) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-4. 🗣 Commented on [#96](https://github.com/totaldebug/pyarr/issues/96) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-5. 🗣 Commented on [#555](https://github.com/totaldebug/atomic-calendar-revive/issues/555) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🗣 Commented on [#561](https://github.com/totaldebug/atomic-calendar-revive/issues/561) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🗣 Commented on [#554](https://github.com/totaldebug/atomic-calendar-revive/issues/554) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. ❗️ Closed issue [#96](https://github.com/totaldebug/pyarr/issues/96) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🗣 Commented on [#96](https://github.com/totaldebug/pyarr/issues/96) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 <!--END_SECTION:activity-->
 
 </details>
