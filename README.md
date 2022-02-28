@@ -48,11 +48,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#565](https://github.com/totaldebug/atomic-calendar-revive/issues/565) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🗣 Commented on [#565](https://github.com/totaldebug/atomic-calendar-revive/issues/565) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. ❗️ Closed issue [#564](https://github.com/totaldebug/atomic-calendar-revive/issues/564) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🗣 Commented on [#564](https://github.com/totaldebug/atomic-calendar-revive/issues/564) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 💪 Opened PR [#563](https://github.com/totaldebug/atomic-calendar-revive/pull/563) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🎉 Merged PR [#563](https://github.com/totaldebug/atomic-calendar-revive/pull/563) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. ❗️ Closed issue [#516](https://github.com/totaldebug/atomic-calendar-revive/issues/516) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. ❗️ Closed issue [#511](https://github.com/totaldebug/atomic-calendar-revive/issues/511) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. ❗️ Closed issue [#561](https://github.com/totaldebug/atomic-calendar-revive/issues/561) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. ❗️ Closed issue [#557](https://github.com/totaldebug/atomic-calendar-revive/issues/557) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
