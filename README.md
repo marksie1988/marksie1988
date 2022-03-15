@@ -48,11 +48,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#582](https://github.com/totaldebug/atomic-calendar-revive/issues/582) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🗣 Commented on [#582](https://github.com/totaldebug/atomic-calendar-revive/issues/582) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🗣 Commented on [#40127](https://github.com/home-assistant/core/issues/40127) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 💪 Opened PR [#97](https://github.com/totaldebug/pyarr/pull/97) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-5. ❗️ Closed issue [#562](https://github.com/totaldebug/atomic-calendar-revive/issues/562) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🗣 Commented on [#448](https://github.com/totaldebug/atomic-calendar-revive/issues/448) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. ❗️ Closed issue [#582](https://github.com/totaldebug/atomic-calendar-revive/issues/582) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🗣 Commented on [#582](https://github.com/totaldebug/atomic-calendar-revive/issues/582) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🗣 Commented on [#40127](https://github.com/home-assistant/core/issues/40127) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 💪 Opened PR [#97](https://github.com/totaldebug/pyarr/pull/97) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 <!--END_SECTION:activity-->
 
 </details>
