@@ -48,11 +48,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/totaldebug/totaldebug.uk/pull/3) in [totaldebug/totaldebug.uk](https://github.com/totaldebug/totaldebug.uk)
-2. 💪 Opened PR [#3](https://github.com/totaldebug/totaldebug.uk/pull/3) in [totaldebug/totaldebug.uk](https://github.com/totaldebug/totaldebug.uk)
-3. 🎉 Merged PR [#590](https://github.com/totaldebug/atomic-calendar-revive/pull/590) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🎉 Merged PR [#589](https://github.com/totaldebug/atomic-calendar-revive/pull/589) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🎉 Merged PR [#586](https://github.com/totaldebug/atomic-calendar-revive/pull/586) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🗣 Commented on [#605](https://github.com/totaldebug/atomic-calendar-revive/issues/605) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🎉 Merged PR [#3](https://github.com/totaldebug/totaldebug.uk/pull/3) in [totaldebug/totaldebug.uk](https://github.com/totaldebug/totaldebug.uk)
+3. 💪 Opened PR [#3](https://github.com/totaldebug/totaldebug.uk/pull/3) in [totaldebug/totaldebug.uk](https://github.com/totaldebug/totaldebug.uk)
+4. 🎉 Merged PR [#590](https://github.com/totaldebug/atomic-calendar-revive/pull/590) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🎉 Merged PR [#589](https://github.com/totaldebug/atomic-calendar-revive/pull/589) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
