@@ -48,11 +48,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#71581](https://github.com/home-assistant/core/issues/71581) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🗣 Commented on [#649](https://github.com/totaldebug/atomic-calendar-revive/issues/649) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🗣 Commented on [#649](https://github.com/totaldebug/atomic-calendar-revive/issues/649) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🗣 Commented on [#649](https://github.com/totaldebug/atomic-calendar-revive/issues/649) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🎉 Merged PR [#643](https://github.com/totaldebug/atomic-calendar-revive/pull/643) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🎉 Merged PR [#104](https://github.com/totaldebug/pyarr/pull/104) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+2. ❗️ Closed issue [#103](https://github.com/totaldebug/pyarr/issues/103) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+3. 🗣 Commented on [#104](https://github.com/totaldebug/pyarr/issues/104) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+4. ❗️ Opened issue [#71581](https://github.com/home-assistant/core/issues/71581) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🗣 Commented on [#649](https://github.com/totaldebug/atomic-calendar-revive/issues/649) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
