@@ -9,21 +9,15 @@
 
 ## I'm a Husband, Father, Developer!!
 
-- 🌱 I’m currently learning Python amongst many other things
+- 🌱 I’m currently learning Python and Typescript amongst other things
 - 👯 I’m looking to collaborate with other developers to progress
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
-### Languages and Tools:
+### Languages and stats:
 
-![Python](https://img.shields.io/badge/-Python-%234B8BBE?style=for-the-badge&logo=python&logoColor=ffffff)
-![PowerShell](https://img.shields.io/badge/-PowerShell-%235391FE?style=for-the-badge&logo=powershell&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+[![marksie1988's GitHub stats](https://github-readme-stats.vercel.app/api?username=marksie1988&show_icons=true&layout=compact&theme=dark)](https://github.com/marksie1988)
 
-![Rollup.js](https://img.shields.io/badge/-Rollup.js-%23EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=%23ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marksie1988&layout=compact&theme=dark)](https://github.com/marksie1988)
 
 <br />
 <br />
@@ -54,13 +48,6 @@
 4. 🎉 Merged PR [#104](https://github.com/totaldebug/pyarr/pull/104) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 5. ❗️ Closed issue [#103](https://github.com/totaldebug/pyarr/issues/103) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="marksie1988's GitHub Stats" src="https://github-readme-stats.marksie1988.vercel.app/api?username=marksie1988&show_icons=true&hide_border=true" />
 
 </details>
 
