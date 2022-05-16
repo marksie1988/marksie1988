@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71581](https://github.com/home-assistant/core/issues/71581) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🗣 Commented on [#122](https://github.com/stuyy/slappey/issues/122) in [stuyy/slappey](https://github.com/stuyy/slappey)
-3. 🗣 Commented on [#115](https://github.com/stuyy/slappey/issues/115) in [stuyy/slappey](https://github.com/stuyy/slappey)
-4. 🗣 Commented on [#649](https://github.com/totaldebug/atomic-calendar-revive/issues/649) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🎉 Merged PR [#104](https://github.com/totaldebug/pyarr/pull/104) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+1. ❗️ Opened issue [#2926](https://github.com/dendronhq/dendron/issues/2926) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
+2. 🗣 Commented on [#71581](https://github.com/home-assistant/core/issues/71581) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 🗣 Commented on [#122](https://github.com/stuyy/slappey/issues/122) in [stuyy/slappey](https://github.com/stuyy/slappey)
+4. 🗣 Commented on [#115](https://github.com/stuyy/slappey/issues/115) in [stuyy/slappey](https://github.com/stuyy/slappey)
+5. 🗣 Commented on [#649](https://github.com/totaldebug/atomic-calendar-revive/issues/649) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
