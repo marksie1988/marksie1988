@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/totaldebug/ansible-role-hassio/pull/5) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
-2. 🎉 Merged PR [#4](https://github.com/totaldebug/ansible-role-hassio/pull/4) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
-3. 🎉 Merged PR [#653](https://github.com/totaldebug/atomic-calendar-revive/pull/653) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🎉 Merged PR [#657](https://github.com/totaldebug/atomic-calendar-revive/pull/657) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🎉 Merged PR [#658](https://github.com/totaldebug/atomic-calendar-revive/pull/658) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. ❗️ Closed issue [#2](https://github.com/totaldebug/ansible-role-hassio/issues/2) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
+2. 🎉 Merged PR [#5](https://github.com/totaldebug/ansible-role-hassio/pull/5) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
+3. 💪 Opened PR [#5](https://github.com/totaldebug/ansible-role-hassio/pull/5) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
+4. 🎉 Merged PR [#4](https://github.com/totaldebug/ansible-role-hassio/pull/4) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
+5. 🎉 Merged PR [#653](https://github.com/totaldebug/atomic-calendar-revive/pull/653) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
