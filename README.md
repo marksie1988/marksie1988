@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/totaldebug/ansible-role-hassio/issues/2) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
-2. 🎉 Merged PR [#5](https://github.com/totaldebug/ansible-role-hassio/pull/5) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
-3. 💪 Opened PR [#5](https://github.com/totaldebug/ansible-role-hassio/pull/5) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
-4. 🎉 Merged PR [#4](https://github.com/totaldebug/ansible-role-hassio/pull/4) in [totaldebug/ansible-role-hassio](https://github.com/totaldebug/ansible-role-hassio)
-5. 🎉 Merged PR [#653](https://github.com/totaldebug/atomic-calendar-revive/pull/653) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🎉 Merged PR [#667](https://github.com/totaldebug/atomic-calendar-revive/pull/667) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🎉 Merged PR [#665](https://github.com/totaldebug/atomic-calendar-revive/pull/665) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🎉 Merged PR [#666](https://github.com/totaldebug/atomic-calendar-revive/pull/666) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🎉 Merged PR [#668](https://github.com/totaldebug/atomic-calendar-revive/pull/668) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🎉 Merged PR [#669](https://github.com/totaldebug/atomic-calendar-revive/pull/669) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
