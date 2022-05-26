@@ -45,8 +45,8 @@
 1. 🗣 Commented on [#105](https://github.com/totaldebug/pyarr/issues/105) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 2. 🗣 Commented on [#105](https://github.com/totaldebug/pyarr/issues/105) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 3. 🗣 Commented on [#105](https://github.com/totaldebug/pyarr/issues/105) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-4. 🎉 Merged PR [#664](https://github.com/totaldebug/atomic-calendar-revive/pull/664) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🎉 Merged PR [#667](https://github.com/totaldebug/atomic-calendar-revive/pull/667) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🗣 Commented on [#105](https://github.com/totaldebug/pyarr/issues/105) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🎉 Merged PR [#664](https://github.com/totaldebug/atomic-calendar-revive/pull/664) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
