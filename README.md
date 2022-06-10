@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
-2. ❗️ Closed issue [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
-3. ❗️ Opened issue [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
-4. ❗️ Closed issue [#605](https://github.com/totaldebug/atomic-calendar-revive/issues/605) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🗣 Commented on [#605](https://github.com/totaldebug/atomic-calendar-revive/issues/605) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🗣 Commented on [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
+2. 🗣 Commented on [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
+3. ❗️ Reopened issue [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
+4. ❗️ Closed issue [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
+5. ❗️ Opened issue [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
 <!--END_SECTION:activity-->
 
 </details>
