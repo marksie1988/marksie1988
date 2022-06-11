@@ -44,9 +44,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
 2. 🗣 Commented on [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
-3. ❗️ Reopened issue [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
-4. ❗️ Closed issue [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
-5. ❗️ Opened issue [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
+3. 🗣 Commented on [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
+4. ❗️ Reopened issue [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
+5. ❗️ Closed issue [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
 <!--END_SECTION:activity-->
 
 </details>
