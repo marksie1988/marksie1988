@@ -42,9 +42,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#602](https://github.com/cotes2020/jekyll-theme-chirpy/issues/602) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-2. 🗣 Commented on [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
-3. 🗣 Commented on [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
+1. ❗️ Closed issue [#602](https://github.com/cotes2020/jekyll-theme-chirpy/issues/602) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+2. 🗣 Commented on [#602](https://github.com/cotes2020/jekyll-theme-chirpy/issues/602) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+3. ❗️ Opened issue [#602](https://github.com/cotes2020/jekyll-theme-chirpy/issues/602) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 4. 🗣 Commented on [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
 5. 🗣 Commented on [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
 <!--END_SECTION:activity-->
