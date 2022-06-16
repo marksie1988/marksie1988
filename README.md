@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/totaldebug/pyarr/issues/107) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-2. 🎉 Merged PR [#699](https://github.com/totaldebug/atomic-calendar-revive/pull/699) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. ❗️ Closed issue [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
-4. 🗣 Commented on [#1933](https://github.com/iamkun/dayjs/issues/1933) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
-5. 🎉 Merged PR [#704](https://github.com/totaldebug/atomic-calendar-revive/pull/704) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. ❗️ Closed issue [#594](https://github.com/totaldebug/atomic-calendar-revive/issues/594) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🎉 Merged PR [#706](https://github.com/totaldebug/atomic-calendar-revive/pull/706) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🎉 Merged PR [#705](https://github.com/totaldebug/atomic-calendar-revive/pull/705) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🗣 Commented on [#107](https://github.com/totaldebug/pyarr/issues/107) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🎉 Merged PR [#699](https://github.com/totaldebug/atomic-calendar-revive/pull/699) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
