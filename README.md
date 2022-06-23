@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/totaldebug/ansible-role-deluge/pull/6) in [totaldebug/ansible-role-deluge](https://github.com/totaldebug/ansible-role-deluge)
-2. ❗️ Closed issue [#4](https://github.com/totaldebug/ansible-collection-hassio_cli/issues/4) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
-3. 🗣 Commented on [#715](https://github.com/totaldebug/atomic-calendar-revive/issues/715) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. ❗️ Opened issue [#715](https://github.com/totaldebug/atomic-calendar-revive/issues/715) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. ❗️ Closed issue [#107](https://github.com/totaldebug/pyarr/issues/107) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+1. 🎉 Merged PR [#6](https://github.com/totaldebug/ansible-role-deluge/pull/6) in [totaldebug/ansible-role-deluge](https://github.com/totaldebug/ansible-role-deluge)
+2. ❗️ Closed issue [#4](https://github.com/totaldebug/ansible-role-deluge/issues/4) in [totaldebug/ansible-role-deluge](https://github.com/totaldebug/ansible-role-deluge)
+3. 💪 Opened PR [#6](https://github.com/totaldebug/ansible-role-deluge/pull/6) in [totaldebug/ansible-role-deluge](https://github.com/totaldebug/ansible-role-deluge)
+4. ❗️ Closed issue [#4](https://github.com/totaldebug/ansible-collection-hassio_cli/issues/4) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
+5. 🗣 Commented on [#715](https://github.com/totaldebug/atomic-calendar-revive/issues/715) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
