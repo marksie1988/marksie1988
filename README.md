@@ -27,11 +27,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Type hinting and checking in Python](https://totaldebug.uk/posts/type-hinting-and-checking-in-python/)
 - [Creating the perfect Python project](https://totaldebug.uk/posts/creating-the-perfect-python-project/)
 - [Cookiecutter: Automate project creation!](https://totaldebug.uk/posts/cookiecutter-automate-project-creation/)
 - [Sqitch, Sensible database change management](https://totaldebug.uk/posts/sqitch-sensible-database-change-management/)
 - [Using CloneZilla to migrate multiple disk server](https://totaldebug.uk/posts/using-clonezilla-to-migrate-multi-disk-server/)
-- [Use Git like a pro!](https://totaldebug.uk/posts/use-git-like-a-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://totaldebug.uk/blog/)
