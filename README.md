@@ -44,9 +44,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#124](https://github.com/totaldebug/pyarr/issues/124) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 2. 🗣 Commented on [#124](https://github.com/totaldebug/pyarr/issues/124) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-3. ❌ Closed PR [#121](https://github.com/totaldebug/pyarr/pull/121) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-4. 🗣 Commented on [#121](https://github.com/totaldebug/pyarr/issues/121) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-5. 🗣 Commented on [#742](https://github.com/totaldebug/atomic-calendar-revive/issues/742) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🗣 Commented on [#124](https://github.com/totaldebug/pyarr/issues/124) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+4. ❌ Closed PR [#121](https://github.com/totaldebug/pyarr/pull/121) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🗣 Commented on [#121](https://github.com/totaldebug/pyarr/issues/121) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 <!--END_SECTION:activity-->
 
 </details>
