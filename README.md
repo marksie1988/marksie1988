@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#769](https://github.com/totaldebug/atomic-calendar-revive/issues/769) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🗣 Commented on [#941](https://github.com/Taxel/PlexTraktSync/issues/941) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
-3. 🗣 Commented on [#124](https://github.com/totaldebug/pyarr/issues/124) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-4. 🗣 Commented on [#124](https://github.com/totaldebug/pyarr/issues/124) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-5. 🗣 Commented on [#124](https://github.com/totaldebug/pyarr/issues/124) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+1. ❗️ Closed issue [#741](https://github.com/totaldebug/atomic-calendar-revive/issues/741) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🗣 Commented on [#741](https://github.com/totaldebug/atomic-calendar-revive/issues/741) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🗣 Commented on [#754](https://github.com/totaldebug/atomic-calendar-revive/issues/754) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🗣 Commented on [#765](https://github.com/totaldebug/atomic-calendar-revive/issues/765) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🗣 Commented on [#774](https://github.com/totaldebug/atomic-calendar-revive/issues/774) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
