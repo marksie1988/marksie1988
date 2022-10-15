@@ -27,11 +27,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Homer dashboard with Docker](https://totaldebug.uk/posts/homer-dashboard-with-docker/)
 - [Proxmox Template with Cloud Image and Cloud Init](https://totaldebug.uk/posts/proxmox-template-with-cloud-image-and-cloud-init/)
 - [Type hinting and checking in Python](https://totaldebug.uk/posts/type-hinting-and-checking-in-python/)
 - [Creating the perfect Python project](https://totaldebug.uk/posts/creating-the-perfect-python-project/)
 - [Cookiecutter: Automate project creation!](https://totaldebug.uk/posts/cookiecutter-automate-project-creation/)
-- [Sqitch, Sensible database change management](https://totaldebug.uk/posts/sqitch-sensible-database-change-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://totaldebug.uk/blog/)
