@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1100](https://github.com/Taxel/PlexTraktSync/issues/1100) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
-2. 🗣 Commented on [#1100](https://github.com/Taxel/PlexTraktSync/issues/1100) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
-3. ❗️ Reopened issue [#812](https://github.com/totaldebug/atomic-calendar-revive/issues/812) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. ❗️ Closed issue [#812](https://github.com/totaldebug/atomic-calendar-revive/issues/812) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🗣 Commented on [#812](https://github.com/totaldebug/atomic-calendar-revive/issues/812) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. ❗️ Closed issue [#732](https://github.com/totaldebug/atomic-calendar-revive/issues/732) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🗣 Commented on [#732](https://github.com/totaldebug/atomic-calendar-revive/issues/732) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🗣 Commented on [#1100](https://github.com/Taxel/PlexTraktSync/issues/1100) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
+4. 🗣 Commented on [#1100](https://github.com/Taxel/PlexTraktSync/issues/1100) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
+5. ❗️ Reopened issue [#812](https://github.com/totaldebug/atomic-calendar-revive/issues/812) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
