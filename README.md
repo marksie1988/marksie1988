@@ -43,10 +43,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1130](https://github.com/Taxel/PlexTraktSync/issues/1130) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
-2. ❗️ Opened issue [#1130](https://github.com/Taxel/PlexTraktSync/issues/1130) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
-3. ❗️ Closed issue [#732](https://github.com/totaldebug/atomic-calendar-revive/issues/732) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🗣 Commented on [#732](https://github.com/totaldebug/atomic-calendar-revive/issues/732) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🗣 Commented on [#1100](https://github.com/Taxel/PlexTraktSync/issues/1100) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
+2. ❗️ Closed issue [#1130](https://github.com/Taxel/PlexTraktSync/issues/1130) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
+3. 🗣 Commented on [#1130](https://github.com/Taxel/PlexTraktSync/issues/1130) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
+4. 🗣 Commented on [#1130](https://github.com/Taxel/PlexTraktSync/issues/1130) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
+5. ❗️ Opened issue [#1130](https://github.com/Taxel/PlexTraktSync/issues/1130) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
 <!--END_SECTION:activity-->
 
 </details>
