@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/marksie1988/jekyll-theme-chirpy/pull/1) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
-2. ❗️ Closed issue [#624](https://github.com/Telmate/terraform-provider-proxmox/issues/624) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
-3. 🗣 Commented on [#624](https://github.com/Telmate/terraform-provider-proxmox/issues/624) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
-4. 🗣 Commented on [#1130](https://github.com/Taxel/PlexTraktSync/issues/1130) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
-5. 🗣 Commented on [#1130](https://github.com/Taxel/PlexTraktSync/issues/1130) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
+1. ❌ Closed PR [#1](https://github.com/marksie1988/jekyll-theme-chirpy/pull/1) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
+2. 🗣 Commented on [#734](https://github.com/cotes2020/jekyll-theme-chirpy/issues/734) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+3. 🎉 Merged PR [#2](https://github.com/marksie1988/jekyll-theme-chirpy/pull/2) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
+4. 💪 Opened PR [#2](https://github.com/marksie1988/jekyll-theme-chirpy/pull/2) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
+5. ❌ Closed PR [#734](https://github.com/cotes2020/jekyll-theme-chirpy/pull/734) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 <!--END_SECTION:activity-->
 
 </details>
