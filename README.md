@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#624](https://github.com/Telmate/terraform-provider-proxmox/issues/624) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
-2. 🗣 Commented on [#624](https://github.com/Telmate/terraform-provider-proxmox/issues/624) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
-3. 🗣 Commented on [#1130](https://github.com/Taxel/PlexTraktSync/issues/1130) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
+1. 💪 Opened PR [#1](https://github.com/marksie1988/jekyll-theme-chirpy/pull/1) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
+2. ❗️ Closed issue [#624](https://github.com/Telmate/terraform-provider-proxmox/issues/624) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
+3. 🗣 Commented on [#624](https://github.com/Telmate/terraform-provider-proxmox/issues/624) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
 4. 🗣 Commented on [#1130](https://github.com/Taxel/PlexTraktSync/issues/1130) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
-5. ❗️ Closed issue [#1130](https://github.com/Taxel/PlexTraktSync/issues/1130) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
+5. 🗣 Commented on [#1130](https://github.com/Taxel/PlexTraktSync/issues/1130) in [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync)
 <!--END_SECTION:activity-->
 
 </details>
