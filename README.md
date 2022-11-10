@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/limjh16/jekyll-action-ts/issues/18) in [limjh16/jekyll-action-ts](https://github.com/limjh16/jekyll-action-ts)
-2. ❌ Closed PR [#1](https://github.com/marksie1988/jekyll-theme-chirpy/pull/1) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
-3. 🗣 Commented on [#734](https://github.com/cotes2020/jekyll-theme-chirpy/issues/734) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-4. 🎉 Merged PR [#2](https://github.com/marksie1988/jekyll-theme-chirpy/pull/2) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
-5. 💪 Opened PR [#2](https://github.com/marksie1988/jekyll-theme-chirpy/pull/2) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
+1. 🗣 Commented on [#844](https://github.com/totaldebug/atomic-calendar-revive/issues/844) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🗣 Commented on [#18](https://github.com/limjh16/jekyll-action-ts/issues/18) in [limjh16/jekyll-action-ts](https://github.com/limjh16/jekyll-action-ts)
+3. ❌ Closed PR [#1](https://github.com/marksie1988/jekyll-theme-chirpy/pull/1) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
+4. 🗣 Commented on [#734](https://github.com/cotes2020/jekyll-theme-chirpy/issues/734) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+5. 🎉 Merged PR [#2](https://github.com/marksie1988/jekyll-theme-chirpy/pull/2) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
 <!--END_SECTION:activity-->
 
 </details>
