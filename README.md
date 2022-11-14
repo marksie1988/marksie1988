@@ -43,10 +43,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#116](https://github.com/totaldebug/pyarr/issues/116) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-2. 🗣 Commented on [#844](https://github.com/totaldebug/atomic-calendar-revive/issues/844) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🗣 Commented on [#18](https://github.com/limjh16/jekyll-action-ts/issues/18) in [limjh16/jekyll-action-ts](https://github.com/limjh16/jekyll-action-ts)
-4. ❌ Closed PR [#1](https://github.com/marksie1988/jekyll-theme-chirpy/pull/1) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
-5. 🗣 Commented on [#734](https://github.com/cotes2020/jekyll-theme-chirpy/issues/734) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+2. 🗣 Commented on [#116](https://github.com/totaldebug/pyarr/issues/116) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+3. 🗣 Commented on [#844](https://github.com/totaldebug/atomic-calendar-revive/issues/844) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🗣 Commented on [#18](https://github.com/limjh16/jekyll-action-ts/issues/18) in [limjh16/jekyll-action-ts](https://github.com/limjh16/jekyll-action-ts)
+5. ❌ Closed PR [#1](https://github.com/marksie1988/jekyll-theme-chirpy/pull/1) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
 <!--END_SECTION:activity-->
 
 </details>
