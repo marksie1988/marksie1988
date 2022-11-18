@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#844](https://github.com/totaldebug/atomic-calendar-revive/issues/844) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. ❗️ Closed issue [#849](https://github.com/totaldebug/atomic-calendar-revive/issues/849) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🗣 Commented on [#849](https://github.com/totaldebug/atomic-calendar-revive/issues/849) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🗣 Commented on [#1636](https://github.com/kopia/kopia/issues/1636) in [kopia/kopia](https://github.com/kopia/kopia)
+2. ❗️ Closed issue [#844](https://github.com/totaldebug/atomic-calendar-revive/issues/844) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. ❗️ Closed issue [#849](https://github.com/totaldebug/atomic-calendar-revive/issues/849) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 4. 🗣 Commented on [#849](https://github.com/totaldebug/atomic-calendar-revive/issues/849) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🗣 Commented on [#116](https://github.com/totaldebug/pyarr/issues/116) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🗣 Commented on [#849](https://github.com/totaldebug/atomic-calendar-revive/issues/849) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
