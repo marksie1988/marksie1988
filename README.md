@@ -27,11 +27,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a standalone zigbee2mqtt hub with alpine linux](https://totaldebug.uk/posts/creating-standalone-zigbee2mqtt-hub-with-alpine-linux/)
 - [Configuring Homer Dashboard](https://totaldebug.uk/posts/configuring-homer-dashboard/)
 - [Homer dashboard with Docker](https://totaldebug.uk/posts/homer-dashboard-with-docker/)
 - [Proxmox Template with Cloud Image and Cloud Init](https://totaldebug.uk/posts/proxmox-template-with-cloud-image-and-cloud-init/)
 - [Type hinting and checking in Python](https://totaldebug.uk/posts/type-hinting-and-checking-in-python/)
-- [Creating the perfect Python project](https://totaldebug.uk/posts/creating-the-perfect-python-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://totaldebug.uk/blog/)
