@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#861](https://github.com/totaldebug/atomic-calendar-revive/issues/861) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🗣 Commented on [#861](https://github.com/totaldebug/atomic-calendar-revive/issues/861) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. ❗️ Opened issue [#173](https://github.com/alexjustesen/speedtest-tracker/issues/173) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
-4. 🎉 Merged PR [#850](https://github.com/totaldebug/atomic-calendar-revive/pull/850) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🗣 Commented on [#1636](https://github.com/kopia/kopia/issues/1636) in [kopia/kopia](https://github.com/kopia/kopia)
+1. ❗️ Closed issue [#874](https://github.com/totaldebug/atomic-calendar-revive/issues/874) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🗣 Commented on [#874](https://github.com/totaldebug/atomic-calendar-revive/issues/874) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. ❗️ Closed issue [#861](https://github.com/totaldebug/atomic-calendar-revive/issues/861) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🗣 Commented on [#861](https://github.com/totaldebug/atomic-calendar-revive/issues/861) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. ❗️ Opened issue [#173](https://github.com/alexjustesen/speedtest-tracker/issues/173) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
 <!--END_SECTION:activity-->
 
 </details>
