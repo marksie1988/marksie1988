@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/7) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
-2. ❗️ Opened issue [#10295](https://github.com/docker/compose/issues/10295) in [docker/compose](https://github.com/docker/compose)
-3. 🗣 Commented on [#127](https://github.com/totaldebug/pyarr/issues/127) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-4. 🗣 Commented on [#116](https://github.com/totaldebug/pyarr/issues/116) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-5. 🎉 Merged PR [#918](https://github.com/totaldebug/atomic-calendar-revive/pull/918) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🎉 Merged PR [#7](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/7) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
+2. 💪 Opened PR [#7](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/7) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
+3. ❗️ Opened issue [#10295](https://github.com/docker/compose/issues/10295) in [docker/compose](https://github.com/docker/compose)
+4. 🗣 Commented on [#127](https://github.com/totaldebug/pyarr/issues/127) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🗣 Commented on [#116](https://github.com/totaldebug/pyarr/issues/116) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 <!--END_SECTION:activity-->
 
 </details>
