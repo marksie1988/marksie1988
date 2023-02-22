@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/7) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
-2. 💪 Opened PR [#7](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/7) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
-3. ❗️ Opened issue [#10295](https://github.com/docker/compose/issues/10295) in [docker/compose](https://github.com/docker/compose)
-4. 🗣 Commented on [#127](https://github.com/totaldebug/pyarr/issues/127) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-5. 🗣 Commented on [#116](https://github.com/totaldebug/pyarr/issues/116) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+1. 🗣 Commented on [#875](https://github.com/totaldebug/atomic-calendar-revive/issues/875) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. ❗️ Closed issue [#876](https://github.com/totaldebug/atomic-calendar-revive/issues/876) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🗣 Commented on [#876](https://github.com/totaldebug/atomic-calendar-revive/issues/876) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🗣 Commented on [#898](https://github.com/totaldebug/atomic-calendar-revive/issues/898) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. ❗️ Closed issue [#931](https://github.com/totaldebug/atomic-calendar-revive/issues/931) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
