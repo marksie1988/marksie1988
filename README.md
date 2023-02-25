@@ -27,11 +27,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I host this site](https://totaldebug.uk/posts/how-i-host-this-site/)
 - [Home Assistant medication notification using Node-RED](https://totaldebug.uk/posts/home-assistant-medication-notification-node-red/)
 - [Creating a standalone zigbee2mqtt hub with alpine linux](https://totaldebug.uk/posts/creating-standalone-zigbee2mqtt-hub-with-alpine-linux/)
 - [Configuring Homer Dashboard](https://totaldebug.uk/posts/configuring-homer-dashboard/)
 - [Homer dashboard with Docker](https://totaldebug.uk/posts/homer-dashboard-with-docker/)
-- [Proxmox Template with Cloud Image and Cloud Init](https://totaldebug.uk/posts/proxmox-template-with-cloud-image-and-cloud-init/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://totaldebug.uk/blog/)
