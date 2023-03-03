@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#67](https://github.com/totaldebug/pyarr/issues/67) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-2. 🗣 Commented on [#67](https://github.com/totaldebug/pyarr/issues/67) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-3. 🗣 Commented on [#120](https://github.com/totaldebug/pyarr/issues/120) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-4. 🗣 Commented on [#125](https://github.com/totaldebug/pyarr/issues/125) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-5. 🗣 Commented on [#126](https://github.com/totaldebug/pyarr/issues/126) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+1. 🗣 Commented on [#127](https://github.com/totaldebug/pyarr/issues/127) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+2. ❗️ Closed issue [#67](https://github.com/totaldebug/pyarr/issues/67) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+3. 🗣 Commented on [#67](https://github.com/totaldebug/pyarr/issues/67) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+4. 🗣 Commented on [#120](https://github.com/totaldebug/pyarr/issues/120) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🗣 Commented on [#125](https://github.com/totaldebug/pyarr/issues/125) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 <!--END_SECTION:activity-->
 
 </details>
