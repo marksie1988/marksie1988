@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#973](https://github.com/totaldebug/atomic-calendar-revive/issues/973) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🎉 Merged PR [#3](https://github.com/marksie1988/jekyll-theme-chirpy/pull/3) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
-3. 💪 Opened PR [#3](https://github.com/marksie1988/jekyll-theme-chirpy/pull/3) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
-4. 🗣 Commented on [#116](https://github.com/totaldebug/pyarr/issues/116) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-5. 🗣 Commented on [#967](https://github.com/totaldebug/atomic-calendar-revive/issues/967) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. ❗️ Closed issue [#967](https://github.com/totaldebug/atomic-calendar-revive/issues/967) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🗣 Commented on [#686](https://github.com/totaldebug/atomic-calendar-revive/issues/686) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. ❗️ Closed issue [#972](https://github.com/totaldebug/atomic-calendar-revive/issues/972) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🎉 Merged PR [#974](https://github.com/totaldebug/atomic-calendar-revive/pull/974) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 💪 Opened PR [#974](https://github.com/totaldebug/atomic-calendar-revive/pull/974) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
