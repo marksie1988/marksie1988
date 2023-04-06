@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#91](https://github.com/totaldebug/pyarr/issues/91) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-2. ❗️ Closed issue [#119](https://github.com/totaldebug/pyarr/issues/119) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-3. 🎉 Merged PR [#116](https://github.com/totaldebug/pyarr/pull/116) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-4. ❗️ Closed issue [#968](https://github.com/totaldebug/atomic-calendar-revive/issues/968) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🗣 Commented on [#968](https://github.com/totaldebug/atomic-calendar-revive/issues/968) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🎉 Merged PR [#129](https://github.com/totaldebug/pyarr/pull/129) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+2. 💪 Opened PR [#129](https://github.com/totaldebug/pyarr/pull/129) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+3. ❗️ Closed issue [#91](https://github.com/totaldebug/pyarr/issues/91) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+4. ❗️ Closed issue [#119](https://github.com/totaldebug/pyarr/issues/119) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🎉 Merged PR [#116](https://github.com/totaldebug/pyarr/pull/116) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 <!--END_SECTION:activity-->
 
 </details>
