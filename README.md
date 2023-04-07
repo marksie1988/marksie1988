@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#129](https://github.com/totaldebug/pyarr/pull/129) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-2. 💪 Opened PR [#129](https://github.com/totaldebug/pyarr/pull/129) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-3. ❗️ Closed issue [#91](https://github.com/totaldebug/pyarr/issues/91) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-4. ❗️ Closed issue [#119](https://github.com/totaldebug/pyarr/issues/119) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-5. 🎉 Merged PR [#116](https://github.com/totaldebug/pyarr/pull/116) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+1. ❗️ Opened issue [#130](https://github.com/totaldebug/pyarr/issues/130) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+2. 🎉 Merged PR [#129](https://github.com/totaldebug/pyarr/pull/129) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+3. 💪 Opened PR [#129](https://github.com/totaldebug/pyarr/pull/129) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+4. ❗️ Closed issue [#91](https://github.com/totaldebug/pyarr/issues/91) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. ❗️ Closed issue [#119](https://github.com/totaldebug/pyarr/issues/119) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 <!--END_SECTION:activity-->
 
 </details>
