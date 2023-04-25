@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1002](https://github.com/totaldebug/atomic-calendar-revive/issues/1002) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🗣 Commented on [#702](https://github.com/Telmate/terraform-provider-proxmox/issues/702) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
+1. ❗️ Opened issue [#152](https://github.com/totaldebug/pyarr/issues/152) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+2. 🗣 Commented on [#1002](https://github.com/totaldebug/atomic-calendar-revive/issues/1002) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 3. 🗣 Commented on [#702](https://github.com/Telmate/terraform-provider-proxmox/issues/702) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
-4. ❗️ Closed issue [#1001](https://github.com/totaldebug/atomic-calendar-revive/issues/1001) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🗣 Commented on [#1001](https://github.com/totaldebug/atomic-calendar-revive/issues/1001) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🗣 Commented on [#702](https://github.com/Telmate/terraform-provider-proxmox/issues/702) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
+5. ❗️ Closed issue [#1001](https://github.com/totaldebug/atomic-calendar-revive/issues/1001) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
