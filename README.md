@@ -27,11 +27,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating deployments using Terraform with Proxmox and ansible](https://totaldebug.uk/posts/automating-proxmox-with-terraform-ansible/)
 - [Use Python pandas NOW for your big datasets](https://totaldebug.uk/posts/use-python-pandas-now/)
 - [How I host this site](https://totaldebug.uk/posts/how-i-host-this-site/)
 - [Home Assistant medication notification using Node-RED](https://totaldebug.uk/posts/home-assistant-medication-notification-node-red/)
 - [Creating a standalone zigbee2mqtt hub with alpine linux](https://totaldebug.uk/posts/creating-standalone-zigbee2mqtt-hub-with-alpine-linux/)
-- [Configuring Homer Dashboard](https://totaldebug.uk/posts/configuring-homer-dashboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://totaldebug.uk/blog/)
