@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1022](https://github.com/totaldebug/atomic-calendar-revive/issues/1022) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🗣 Commented on [#1021](https://github.com/totaldebug/atomic-calendar-revive/issues/1021) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🗣 Commented on [#1010](https://github.com/totaldebug/atomic-calendar-revive/issues/1010) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🗣 Commented on [#1021](https://github.com/totaldebug/atomic-calendar-revive/issues/1021) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. ❗️ Closed issue [#993](https://github.com/totaldebug/atomic-calendar-revive/issues/993) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🎉 Merged PR [#1011](https://github.com/totaldebug/atomic-calendar-revive/pull/1011) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🎉 Merged PR [#1008](https://github.com/totaldebug/atomic-calendar-revive/pull/1008) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🎉 Merged PR [#1016](https://github.com/totaldebug/atomic-calendar-revive/pull/1016) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🎉 Merged PR [#1018](https://github.com/totaldebug/atomic-calendar-revive/pull/1018) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🎉 Merged PR [#1023](https://github.com/totaldebug/atomic-calendar-revive/pull/1023) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
