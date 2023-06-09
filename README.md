@@ -27,11 +27,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Add series links to Jekyll posts](https://totaldebug.uk/posts/jekyll-post-series-links/)
 - [Last4Solar - My solar nightmare!](https://totaldebug.uk/posts/last4solar-my-solar-nightmare/)
 - [Automating deployments using Terraform with Proxmox and ansible](https://totaldebug.uk/posts/automating-proxmox-with-terraform-ansible/)
 - [Use Python pandas NOW for your big datasets](https://totaldebug.uk/posts/use-python-pandas-now/)
 - [How I host this site](https://totaldebug.uk/posts/how-i-host-this-site/)
-- [Home Assistant medication notification using Node-RED](https://totaldebug.uk/posts/home-assistant-medication-notification-node-red/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://totaldebug.uk/blog/)
