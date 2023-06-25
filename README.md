@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#973](https://github.com/totaldebug/atomic-calendar-revive/issues/973) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🎉 Merged PR [#1062](https://github.com/totaldebug/atomic-calendar-revive/pull/1062) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 💪 Opened PR [#1062](https://github.com/totaldebug/atomic-calendar-revive/pull/1062) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🔒 Closed issue [#984](https://github.com/totaldebug/atomic-calendar-revive/issues/984) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🎉 Merged PR [#1061](https://github.com/totaldebug/atomic-calendar-revive/pull/1061) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🎉 Merged PR [#5](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/5) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
+2. 🔒 Closed issue [#973](https://github.com/totaldebug/atomic-calendar-revive/issues/973) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🎉 Merged PR [#1062](https://github.com/totaldebug/atomic-calendar-revive/pull/1062) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 💪 Opened PR [#1062](https://github.com/totaldebug/atomic-calendar-revive/pull/1062) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🔒 Closed issue [#984](https://github.com/totaldebug/atomic-calendar-revive/issues/984) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
