@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#158](https://github.com/totaldebug/pyarr/issues/158) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-2. 🎉 Merged PR [#161](https://github.com/totaldebug/pyarr/pull/161) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-3. 🔒 Closed issue [#152](https://github.com/totaldebug/pyarr/issues/152) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-4. 💪 Opened PR [#161](https://github.com/totaldebug/pyarr/pull/161) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-5. 🔒 Closed issue [#157](https://github.com/totaldebug/pyarr/issues/157) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+1. 🗣 Commented on [#9](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/9#issuecomment-1656837507) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
+2. 🎉 Merged PR [#9](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/9) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
+3. 🔒 Closed issue [#158](https://github.com/totaldebug/pyarr/issues/158) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+4. 🎉 Merged PR [#161](https://github.com/totaldebug/pyarr/pull/161) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🔒 Closed issue [#152](https://github.com/totaldebug/pyarr/issues/152) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 <!--END_SECTION:activity-->
 
 </details>
