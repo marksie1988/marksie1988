@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/marksie1988/jekyll-theme-chirpy/pull/4) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
-2. 🗣 Commented on [#9](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/9#issuecomment-1656837507) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
-3. 🎉 Merged PR [#9](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/9) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
-4. 🔒 Closed issue [#158](https://github.com/totaldebug/pyarr/issues/158) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-5. 🎉 Merged PR [#161](https://github.com/totaldebug/pyarr/pull/161) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+1. 🎉 Merged PR [#4](https://github.com/marksie1988/jekyll-theme-chirpy/pull/4) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
+2. 💪 Opened PR [#4](https://github.com/marksie1988/jekyll-theme-chirpy/pull/4) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
+3. 🗣 Commented on [#9](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/9#issuecomment-1656837507) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
+4. 🎉 Merged PR [#9](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/9) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
+5. 🔒 Closed issue [#158](https://github.com/totaldebug/pyarr/issues/158) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 <!--END_SECTION:activity-->
 
 </details>
