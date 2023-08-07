@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/10#issuecomment-1667372801) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
-2. 🗣 Commented on [#163](https://github.com/totaldebug/pyarr/issues/163#issuecomment-1666764116) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-3. 🗣 Commented on [#163](https://github.com/totaldebug/pyarr/issues/163#issuecomment-1666744742) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-4. 🗣 Commented on [#1094](https://github.com/totaldebug/atomic-calendar-revive/issues/1094#issuecomment-1659016924) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🎉 Merged PR [#4](https://github.com/marksie1988/jekyll-theme-chirpy/pull/4) in [marksie1988/jekyll-theme-chirpy](https://github.com/marksie1988/jekyll-theme-chirpy)
+1. 🗣 Commented on [#163](https://github.com/totaldebug/pyarr/issues/163#issuecomment-1667726701) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+2. 🗣 Commented on [#10](https://github.com/totaldebug/ansible-collection-hassio_cli/pull/10#issuecomment-1667372801) in [totaldebug/ansible-collection-hassio_cli](https://github.com/totaldebug/ansible-collection-hassio_cli)
+3. 🗣 Commented on [#163](https://github.com/totaldebug/pyarr/issues/163#issuecomment-1666764116) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+4. 🗣 Commented on [#163](https://github.com/totaldebug/pyarr/issues/163#issuecomment-1666744742) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🗣 Commented on [#1094](https://github.com/totaldebug/atomic-calendar-revive/issues/1094#issuecomment-1659016924) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
