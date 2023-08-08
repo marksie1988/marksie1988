@@ -27,11 +27,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating a Lux Power Inverter with Home Assistant](https://totaldebug.uk/posts/integrate-lux-inverter-with-home-assistant/)
 - [A Pythonic way to alias methods?](https://totaldebug.uk/posts/python-method-aliases/)
 - [Add series links to Jekyll posts](https://totaldebug.uk/posts/jekyll-post-series-links/)
 - [Last4Solar - My solar nightmare!](https://totaldebug.uk/posts/last4solar-my-solar-nightmare/)
 - [Automating deployments using Terraform with Proxmox and ansible](https://totaldebug.uk/posts/automating-proxmox-with-terraform-ansible/)
-- [Use Python pandas NOW for your big datasets](https://totaldebug.uk/posts/use-python-pandas-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://totaldebug.uk/blog/)
