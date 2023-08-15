@@ -27,11 +27,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setup the Sunsynk Power Flow Card with a Lux Inverter](https://totaldebug.uk/posts/sunsynk-power-flow-card-with-lux-inverter/)
 - [Integrate Solcast API with Home Assistant](https://totaldebug.uk/posts/solcast-api-home-assistant/)
 - [Integrating a Lux Power Inverter with Home Assistant](https://totaldebug.uk/posts/integrate-lux-inverter-with-home-assistant/)
 - [A Pythonic way to alias methods?](https://totaldebug.uk/posts/python-method-aliases/)
 - [Add series links to Jekyll posts](https://totaldebug.uk/posts/jekyll-post-series-links/)
-- [Last4Solar - My solar nightmare!](https://totaldebug.uk/posts/last4solar-my-solar-nightmare/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://totaldebug.uk/blog/)
