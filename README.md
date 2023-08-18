@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](https://github.com/slipx06/sunsynk-power-flow-card/pull/58) in [slipx06/sunsynk-power-flow-card](https://github.com/slipx06/sunsynk-power-flow-card)
-2. 💪 Opened PR [#57](https://github.com/slipx06/sunsynk-power-flow-card/pull/57) in [slipx06/sunsynk-power-flow-card](https://github.com/slipx06/sunsynk-power-flow-card)
-3. 🗣 Commented on [#56](https://github.com/slipx06/sunsynk-power-flow-card/pull/56#issuecomment-1683876907) in [slipx06/sunsynk-power-flow-card](https://github.com/slipx06/sunsynk-power-flow-card)
-4. 🗣 Commented on [#56](https://github.com/slipx06/sunsynk-power-flow-card/pull/56#issuecomment-1683869839) in [slipx06/sunsynk-power-flow-card](https://github.com/slipx06/sunsynk-power-flow-card)
-5. 🗣 Commented on [#56](https://github.com/slipx06/sunsynk-power-flow-card/pull/56#issuecomment-1683854564) in [slipx06/sunsynk-power-flow-card](https://github.com/slipx06/sunsynk-power-flow-card)
+1. 🚀 Published release [test](https://github.com/marksie1988/sunsynk-power-flow-card/releases/tag/v0.0.1) in [marksie1988/sunsynk-power-flow-card](https://github.com/marksie1988/sunsynk-power-flow-card)
+2. 💪 Opened PR [#58](https://github.com/slipx06/sunsynk-power-flow-card/pull/58) in [slipx06/sunsynk-power-flow-card](https://github.com/slipx06/sunsynk-power-flow-card)
+3. 💪 Opened PR [#57](https://github.com/slipx06/sunsynk-power-flow-card/pull/57) in [slipx06/sunsynk-power-flow-card](https://github.com/slipx06/sunsynk-power-flow-card)
+4. 🗣 Commented on [#56](https://github.com/slipx06/sunsynk-power-flow-card/pull/56#issuecomment-1683876907) in [slipx06/sunsynk-power-flow-card](https://github.com/slipx06/sunsynk-power-flow-card)
+5. 🗣 Commented on [#56](https://github.com/slipx06/sunsynk-power-flow-card/pull/56#issuecomment-1683869839) in [slipx06/sunsynk-power-flow-card](https://github.com/slipx06/sunsynk-power-flow-card)
 <!--END_SECTION:activity-->
 
 </details>
