@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/slipx06/sunsynk-power-flow-card/pull/61) in [slipx06/sunsynk-power-flow-card](https://github.com/slipx06/sunsynk-power-flow-card)
-2. 🗣 Commented on [#60](https://github.com/slipx06/sunsynk-power-flow-card/issues/60#issuecomment-1684873868) in [slipx06/sunsynk-power-flow-card](https://github.com/slipx06/sunsynk-power-flow-card)
-3. 🗣 Commented on [#60](https://github.com/slipx06/sunsynk-power-flow-card/issues/60#issuecomment-1684500231) in [slipx06/sunsynk-power-flow-card](https://github.com/slipx06/sunsynk-power-flow-card)
-4. 💪 Opened PR [#59](https://github.com/slipx06/sunsynk-power-flow-card/pull/59) in [slipx06/sunsynk-power-flow-card](https://github.com/slipx06/sunsynk-power-flow-card)
-5. 🚀 Published release [test](https://github.com/marksie1988/sunsynk-power-flow-card/releases/tag/v0.0.1) in [marksie1988/sunsynk-power-flow-card](https://github.com/marksie1988/sunsynk-power-flow-card)
+1. 🗣 Commented on [#1086](https://github.com/totaldebug/atomic-calendar-revive/issues/1086#issuecomment-1692216732) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🔒 Closed issue [#1088](https://github.com/totaldebug/atomic-calendar-revive/issues/1088) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🗣 Commented on [#63](https://github.com/slipx06/sunsynk-power-flow-card/issues/63#issuecomment-1692196276) in [slipx06/sunsynk-power-flow-card](https://github.com/slipx06/sunsynk-power-flow-card)
+4. 💪 Opened PR [#61](https://github.com/slipx06/sunsynk-power-flow-card/pull/61) in [slipx06/sunsynk-power-flow-card](https://github.com/slipx06/sunsynk-power-flow-card)
+5. 🗣 Commented on [#60](https://github.com/slipx06/sunsynk-power-flow-card/issues/60#issuecomment-1684873868) in [slipx06/sunsynk-power-flow-card](https://github.com/slipx06/sunsynk-power-flow-card)
 <!--END_SECTION:activity-->
 
 </details>
