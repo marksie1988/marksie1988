@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1116](https://github.com/totaldebug/atomic-calendar-revive/issues/1116#issuecomment-1704398667) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🔒 Closed issue [#1058](https://github.com/totaldebug/atomic-calendar-revive/issues/1058) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🗣 Commented on [#1058](https://github.com/totaldebug/atomic-calendar-revive/issues/1058#issuecomment-1704398382) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. ❗ Opened issue [#1119](https://github.com/totaldebug/atomic-calendar-revive/issues/1119) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🔒 Closed issue [#1115](https://github.com/totaldebug/atomic-calendar-revive/issues/1115) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🔒 Closed issue [#1098](https://github.com/totaldebug/atomic-calendar-revive/issues/1098) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🗣 Commented on [#1098](https://github.com/totaldebug/atomic-calendar-revive/issues/1098#issuecomment-1704413078) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🔒 Closed issue [#717](https://github.com/totaldebug/atomic-calendar-revive/issues/717) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🗣 Commented on [#717](https://github.com/totaldebug/atomic-calendar-revive/issues/717#issuecomment-1704411875) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🗣 Commented on [#1116](https://github.com/totaldebug/atomic-calendar-revive/issues/1116#issuecomment-1704398667) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
