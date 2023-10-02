@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1281](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1281) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-2. 💪 Opened PR [#1280](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1280) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-3. 🗣 Commented on [#1160](https://github.com/totaldebug/atomic-calendar-revive/issues/1160#issuecomment-1740644128) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🔒 Closed issue [#1181](https://github.com/totaldebug/atomic-calendar-revive/issues/1181) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🔒 Closed issue [#1182](https://github.com/totaldebug/atomic-calendar-revive/issues/1182) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. ❗ Opened issue [#45](https://github.com/haydenull/logseq-plugin-git/issues/45) in [haydenull/logseq-plugin-git](https://github.com/haydenull/logseq-plugin-git)
+2. 🗣 Commented on [#1191](https://github.com/totaldebug/atomic-calendar-revive/issues/1191#issuecomment-1742776803) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 💪 Opened PR [#1281](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1281) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+4. 💪 Opened PR [#1280](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1280) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+5. 🗣 Commented on [#1160](https://github.com/totaldebug/atomic-calendar-revive/issues/1160#issuecomment-1740644128) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
