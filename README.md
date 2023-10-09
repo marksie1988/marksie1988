@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1215](https://github.com/totaldebug/atomic-calendar-revive/issues/1215#issuecomment-1753326015) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🗣 Commented on [#875](https://github.com/totaldebug/atomic-calendar-revive/issues/875#issuecomment-1752117199) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🔓 Reopened issue [#875](https://github.com/totaldebug/atomic-calendar-revive/issues/875) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. ❗ Opened issue [#24](https://github.com/browningluke/homelab/issues/24) in [browningluke/homelab](https://github.com/browningluke/homelab)
-5. ❗ Opened issue [#1210](https://github.com/totaldebug/atomic-calendar-revive/issues/1210) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🗣 Commented on [#45](https://github.com/haydenull/logseq-plugin-git/issues/45#issuecomment-1753492862) in [haydenull/logseq-plugin-git](https://github.com/haydenull/logseq-plugin-git)
+2. 🗣 Commented on [#1215](https://github.com/totaldebug/atomic-calendar-revive/issues/1215#issuecomment-1753326015) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🗣 Commented on [#875](https://github.com/totaldebug/atomic-calendar-revive/issues/875#issuecomment-1752117199) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🔓 Reopened issue [#875](https://github.com/totaldebug/atomic-calendar-revive/issues/875) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. ❗ Opened issue [#24](https://github.com/browningluke/homelab/issues/24) in [browningluke/homelab](https://github.com/browningluke/homelab)
 <!--END_SECTION:activity-->
 
 </details>
