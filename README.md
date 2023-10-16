@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#377](https://github.com/bpg/terraform-provider-proxmox/issues/377#issuecomment-1758491123) in [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox)
-2. 🗣 Commented on [#24](https://github.com/browningluke/homelab/issues/24#issuecomment-1757169053) in [browningluke/homelab](https://github.com/browningluke/homelab)
-3. 🗣 Commented on [#45](https://github.com/haydenull/logseq-plugin-git/issues/45#issuecomment-1753492862) in [haydenull/logseq-plugin-git](https://github.com/haydenull/logseq-plugin-git)
-4. 🗣 Commented on [#1215](https://github.com/totaldebug/atomic-calendar-revive/issues/1215#issuecomment-1753326015) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🗣 Commented on [#875](https://github.com/totaldebug/atomic-calendar-revive/issues/875#issuecomment-1752117199) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🎉 Merged PR [#1224](https://github.com/totaldebug/atomic-calendar-revive/pull/1224) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🎉 Merged PR [#1206](https://github.com/totaldebug/atomic-calendar-revive/pull/1206) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🎉 Merged PR [#1201](https://github.com/totaldebug/atomic-calendar-revive/pull/1201) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🎉 Merged PR [#1205](https://github.com/totaldebug/atomic-calendar-revive/pull/1205) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🎉 Merged PR [#1207](https://github.com/totaldebug/atomic-calendar-revive/pull/1207) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
