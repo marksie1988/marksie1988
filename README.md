@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1224](https://github.com/totaldebug/atomic-calendar-revive/pull/1224) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🎉 Merged PR [#1206](https://github.com/totaldebug/atomic-calendar-revive/pull/1206) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🎉 Merged PR [#1201](https://github.com/totaldebug/atomic-calendar-revive/pull/1201) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🎉 Merged PR [#1205](https://github.com/totaldebug/atomic-calendar-revive/pull/1205) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🎉 Merged PR [#1207](https://github.com/totaldebug/atomic-calendar-revive/pull/1207) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🎉 Merged PR [#1227](https://github.com/totaldebug/atomic-calendar-revive/pull/1227) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🎉 Merged PR [#1228](https://github.com/totaldebug/atomic-calendar-revive/pull/1228) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🎉 Merged PR [#1229](https://github.com/totaldebug/atomic-calendar-revive/pull/1229) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🎉 Merged PR [#1230](https://github.com/totaldebug/atomic-calendar-revive/pull/1230) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🎉 Merged PR [#1231](https://github.com/totaldebug/atomic-calendar-revive/pull/1231) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
