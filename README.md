@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1268](https://github.com/totaldebug/atomic-calendar-revive/pull/1268) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🎉 Merged PR [#1256](https://github.com/totaldebug/atomic-calendar-revive/pull/1256) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🗣 Commented on [#277](https://github.com/thomasloven/lovelace-card-mod/pull/277#issuecomment-1783907839) in [thomasloven/lovelace-card-mod](https://github.com/thomasloven/lovelace-card-mod)
-4. 🔒 Closed issue [#473](https://github.com/totaldebug/atomic-calendar-revive/issues/473) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🔒 Closed issue [#875](https://github.com/totaldebug/atomic-calendar-revive/issues/875) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🎉 Merged PR [#1262](https://github.com/totaldebug/atomic-calendar-revive/pull/1262) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🎉 Merged PR [#1259](https://github.com/totaldebug/atomic-calendar-revive/pull/1259) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🔒 Closed issue [#1210](https://github.com/totaldebug/atomic-calendar-revive/issues/1210) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🎉 Merged PR [#1263](https://github.com/totaldebug/atomic-calendar-revive/pull/1263) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🎉 Merged PR [#1264](https://github.com/totaldebug/atomic-calendar-revive/pull/1264) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
