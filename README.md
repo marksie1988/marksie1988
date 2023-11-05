@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1254](https://github.com/totaldebug/atomic-calendar-revive/issues/1254#issuecomment-1792142942) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🎉 Merged PR [#1262](https://github.com/totaldebug/atomic-calendar-revive/pull/1262) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🎉 Merged PR [#1259](https://github.com/totaldebug/atomic-calendar-revive/pull/1259) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🔒 Closed issue [#1210](https://github.com/totaldebug/atomic-calendar-revive/issues/1210) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🎉 Merged PR [#1263](https://github.com/totaldebug/atomic-calendar-revive/pull/1263) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🎉 Merged PR [#1274](https://github.com/totaldebug/atomic-calendar-revive/pull/1274) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🎉 Merged PR [#1273](https://github.com/totaldebug/atomic-calendar-revive/pull/1273) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🎉 Merged PR [#1271](https://github.com/totaldebug/atomic-calendar-revive/pull/1271) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🎉 Merged PR [#1270](https://github.com/totaldebug/atomic-calendar-revive/pull/1270) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🗣 Commented on [#1254](https://github.com/totaldebug/atomic-calendar-revive/issues/1254#issuecomment-1792142942) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
