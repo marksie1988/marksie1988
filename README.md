@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#167](https://github.com/totaldebug/pyarr/pull/167) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-2. 🗣 Commented on [#1258](https://github.com/totaldebug/atomic-calendar-revive/issues/1258#issuecomment-1809228909) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🗣 Commented on [#1258](https://github.com/totaldebug/atomic-calendar-revive/issues/1258#issuecomment-1809214046) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🗣 Commented on [#1272](https://github.com/totaldebug/atomic-calendar-revive/issues/1272#issuecomment-1809197739) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🎉 Merged PR [#1274](https://github.com/totaldebug/atomic-calendar-revive/pull/1274) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🔒 Closed issue [#1248](https://github.com/totaldebug/atomic-calendar-revive/issues/1248) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🎉 Merged PR [#1317](https://github.com/totaldebug/atomic-calendar-revive/pull/1317) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 💪 Opened PR [#1317](https://github.com/totaldebug/atomic-calendar-revive/pull/1317) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🎉 Merged PR [#167](https://github.com/totaldebug/pyarr/pull/167) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🗣 Commented on [#1258](https://github.com/totaldebug/atomic-calendar-revive/issues/1258#issuecomment-1809228909) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
