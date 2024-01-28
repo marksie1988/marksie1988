@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#656](https://github.com/springfall2008/batpred/pull/656) in [springfall2008/batpred](https://github.com/springfall2008/batpred)
-2. ❗ Opened issue [#1399](https://github.com/totaldebug/atomic-calendar-revive/issues/1399) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 💪 Opened PR [#1397](https://github.com/totaldebug/atomic-calendar-revive/pull/1397) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🎉 Merged PR [#1394](https://github.com/totaldebug/atomic-calendar-revive/pull/1394) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🎉 Merged PR [#1391](https://github.com/totaldebug/atomic-calendar-revive/pull/1391) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🎉 Merged PR [#1402](https://github.com/totaldebug/atomic-calendar-revive/pull/1402) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 💪 Opened PR [#1402](https://github.com/totaldebug/atomic-calendar-revive/pull/1402) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. ❗ Opened issue [#1401](https://github.com/totaldebug/atomic-calendar-revive/issues/1401) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🔒 Closed issue [#1399](https://github.com/totaldebug/atomic-calendar-revive/issues/1399) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🔒 Closed issue [#1247](https://github.com/totaldebug/atomic-calendar-revive/issues/1247) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
