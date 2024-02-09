@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/desert-ratz/website/pull/1) in [desert-ratz/website](https://github.com/desert-ratz/website)
-2. 💪 Opened PR [#1](https://github.com/desert-ratz/website/pull/1) in [desert-ratz/website](https://github.com/desert-ratz/website)
-3. 🎉 Merged PR [#1412](https://github.com/totaldebug/atomic-calendar-revive/pull/1412) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🗣 Commented on [#1337](https://github.com/totaldebug/atomic-calendar-revive/issues/1337#issuecomment-1929245596) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🔒 Closed issue [#1255](https://github.com/totaldebug/atomic-calendar-revive/issues/1255) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🗣 Commented on [#1422](https://github.com/totaldebug/atomic-calendar-revive/issues/1422#issuecomment-1935725447) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. ❗ Opened issue [#1422](https://github.com/totaldebug/atomic-calendar-revive/issues/1422) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🎉 Merged PR [#1](https://github.com/desert-ratz/website/pull/1) in [desert-ratz/website](https://github.com/desert-ratz/website)
+4. 💪 Opened PR [#1](https://github.com/desert-ratz/website/pull/1) in [desert-ratz/website](https://github.com/desert-ratz/website)
+5. 🎉 Merged PR [#1412](https://github.com/totaldebug/atomic-calendar-revive/pull/1412) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
