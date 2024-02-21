@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#186](https://github.com/clarkio/vscode-twitch-highlighter/issues/186#issuecomment-1937348360) in [clarkio/vscode-twitch-highlighter](https://github.com/clarkio/vscode-twitch-highlighter)
-2. 🗣 Commented on [#1422](https://github.com/totaldebug/atomic-calendar-revive/issues/1422#issuecomment-1935725447) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. ❗ Opened issue [#1422](https://github.com/totaldebug/atomic-calendar-revive/issues/1422) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🎉 Merged PR [#1](https://github.com/desert-ratz/website/pull/1) in [desert-ratz/website](https://github.com/desert-ratz/website)
-5. 💪 Opened PR [#1](https://github.com/desert-ratz/website/pull/1) in [desert-ratz/website](https://github.com/desert-ratz/website)
+1. 🗣 Commented on [#1428](https://github.com/totaldebug/atomic-calendar-revive/issues/1428#issuecomment-1957420570) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🗣 Commented on [#186](https://github.com/clarkio/vscode-twitch-highlighter/issues/186#issuecomment-1937348360) in [clarkio/vscode-twitch-highlighter](https://github.com/clarkio/vscode-twitch-highlighter)
+3. 🗣 Commented on [#1422](https://github.com/totaldebug/atomic-calendar-revive/issues/1422#issuecomment-1935725447) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. ❗ Opened issue [#1422](https://github.com/totaldebug/atomic-calendar-revive/issues/1422) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🎉 Merged PR [#1](https://github.com/desert-ratz/website/pull/1) in [desert-ratz/website](https://github.com/desert-ratz/website)
 <!--END_SECTION:activity-->
 
 </details>
