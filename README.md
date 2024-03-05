@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1337](https://github.com/totaldebug/atomic-calendar-revive/issues/1337) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🗣 Commented on [#1428](https://github.com/totaldebug/atomic-calendar-revive/issues/1428#issuecomment-1957420570) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🗣 Commented on [#186](https://github.com/clarkio/vscode-twitch-highlighter/issues/186#issuecomment-1937348360) in [clarkio/vscode-twitch-highlighter](https://github.com/clarkio/vscode-twitch-highlighter)
-4. 🗣 Commented on [#1422](https://github.com/totaldebug/atomic-calendar-revive/issues/1422#issuecomment-1935725447) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. ❗ Opened issue [#1422](https://github.com/totaldebug/atomic-calendar-revive/issues/1422) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🔒 Closed issue [#1425](https://github.com/totaldebug/atomic-calendar-revive/issues/1425) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🔒 Closed issue [#1422](https://github.com/totaldebug/atomic-calendar-revive/issues/1422) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🎉 Merged PR [#1440](https://github.com/totaldebug/atomic-calendar-revive/pull/1440) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 💪 Opened PR [#1440](https://github.com/totaldebug/atomic-calendar-revive/pull/1440) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🔒 Closed issue [#1337](https://github.com/totaldebug/atomic-calendar-revive/issues/1337) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
