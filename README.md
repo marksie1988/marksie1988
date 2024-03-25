@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#25](https://github.com/minherz/copyright-inserter/issues/25) in [minherz/copyright-inserter](https://github.com/minherz/copyright-inserter)
-2. 🗣 Commented on [#1446](https://github.com/totaldebug/atomic-calendar-revive/pull/1446#issuecomment-2009513064) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. ❌ Closed PR [#1446](https://github.com/totaldebug/atomic-calendar-revive/pull/1446) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🔒 Closed issue [#1455](https://github.com/totaldebug/atomic-calendar-revive/issues/1455) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🗣 Commented on [#1420](https://github.com/totaldebug/atomic-calendar-revive/issues/1420#issuecomment-2009482826) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🚀 Published release [v0.1.0](https://github.com/totaldebug/asyncpow/releases/tag/v0.1.0) in [totaldebug/asyncpow](https://github.com/totaldebug/asyncpow)
+2. 🚀 Published release [v0.1.0](https://github.com/totaldebug/asyncpow/releases/tag/v0.1.0) in [totaldebug/asyncpow](https://github.com/totaldebug/asyncpow)
+3. 🚀 Published release [v0.1.0](https://github.com/totaldebug/asyncpow/releases/tag/v0.1.0) in [totaldebug/asyncpow](https://github.com/totaldebug/asyncpow)
+4. ❗ Opened issue [#25](https://github.com/minherz/copyright-inserter/issues/25) in [minherz/copyright-inserter](https://github.com/minherz/copyright-inserter)
+5. 🗣 Commented on [#1446](https://github.com/totaldebug/atomic-calendar-revive/pull/1446#issuecomment-2009513064) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
