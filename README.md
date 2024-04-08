@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3837](https://github.com/sct/overseerr/issues/3837#issuecomment-2041544494) in [sct/overseerr](https://github.com/sct/overseerr)
-2. ❗ Opened issue [#3837](https://github.com/sct/overseerr/issues/3837) in [sct/overseerr](https://github.com/sct/overseerr)
-3. 🚀 Published release [v0.1.0](https://github.com/totaldebug/asyncpow/releases/tag/v0.1.0) in [totaldebug/asyncpow](https://github.com/totaldebug/asyncpow)
-4. 🚀 Published release [v0.1.0](https://github.com/totaldebug/asyncpow/releases/tag/v0.1.0) in [totaldebug/asyncpow](https://github.com/totaldebug/asyncpow)
-5. 🚀 Published release [v0.1.0](https://github.com/totaldebug/asyncpow/releases/tag/v0.1.0) in [totaldebug/asyncpow](https://github.com/totaldebug/asyncpow)
+1. 🔒 Closed issue [#1444](https://github.com/totaldebug/atomic-calendar-revive/issues/1444) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🎉 Merged PR [#1476](https://github.com/totaldebug/atomic-calendar-revive/pull/1476) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 💪 Opened PR [#1476](https://github.com/totaldebug/atomic-calendar-revive/pull/1476) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🗣 Commented on [#3837](https://github.com/sct/overseerr/issues/3837#issuecomment-2041544494) in [sct/overseerr](https://github.com/sct/overseerr)
+5. ❗ Opened issue [#3837](https://github.com/sct/overseerr/issues/3837) in [sct/overseerr](https://github.com/sct/overseerr)
 <!--END_SECTION:activity-->
 
 </details>
