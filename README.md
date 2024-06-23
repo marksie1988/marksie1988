@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1503](https://github.com/totaldebug/atomic-calendar-revive/issues/1503#issuecomment-2185006105) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🗣 Commented on [#1503](https://github.com/totaldebug/atomic-calendar-revive/issues/1503#issuecomment-2184114410) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🎉 Merged PR [#1502](https://github.com/totaldebug/atomic-calendar-revive/pull/1502) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. ❗ Opened issue [#10](https://github.com/damex/ansible-collections-plex/issues/10) in [damex/ansible-collections-plex](https://github.com/damex/ansible-collections-plex)
-5. 🗣 Commented on [#1502](https://github.com/totaldebug/atomic-calendar-revive/pull/1502#issuecomment-2179472325) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🗣 Commented on [#1503](https://github.com/totaldebug/atomic-calendar-revive/issues/1503#issuecomment-2185154698) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🗣 Commented on [#1503](https://github.com/totaldebug/atomic-calendar-revive/issues/1503#issuecomment-2185006105) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🗣 Commented on [#1503](https://github.com/totaldebug/atomic-calendar-revive/issues/1503#issuecomment-2184114410) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🎉 Merged PR [#1502](https://github.com/totaldebug/atomic-calendar-revive/pull/1502) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. ❗ Opened issue [#10](https://github.com/damex/ansible-collections-plex/issues/10) in [damex/ansible-collections-plex](https://github.com/damex/ansible-collections-plex)
 <!--END_SECTION:activity-->
 
 </details>
