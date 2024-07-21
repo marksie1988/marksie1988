@@ -41,7 +41,7 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTofu - Getting started, Installation and basic overview](https://totaldebug.uk/posts/opentofu-getting-started/)
+- [Getting Started with OpenTofu: Infrastructure as Code for Cloud Providers](https://totaldebug.uk/posts/opentofu-getting-started/)
 - [Automatically Join Octopus Energy Saving Sessions](https://totaldebug.uk/posts/automatically-join-octopus-energy-saving-session/)
 - [Automated release with Semantic Release and commitizen](https://totaldebug.uk/posts/automated-release-with-semantic-release-and-commitizen/)
 - [Hell Let Loose, better performance and visibility settings](https://totaldebug.uk/posts/hll-better-performance-visibility/)
