@@ -56,8 +56,8 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1517](https://github.com/totaldebug/atomic-calendar-revive/issues/1517) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🎉 Merged PR [#1518](https://github.com/totaldebug/atomic-calendar-revive/pull/1518) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. ❗ Opened issue [#2](https://github.com/marksie1988/dotfiles/issues/2) in [marksie1988/dotfiles](https://github.com/marksie1988/dotfiles)
+2. ❗ Opened issue [#1](https://github.com/marksie1988/dotfiles/issues/1) in [marksie1988/dotfiles](https://github.com/marksie1988/dotfiles)
 3. 🗣 Commented on [#1465](https://github.com/totaldebug/atomic-calendar-revive/issues/1465#issuecomment-2203308370) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 4. 🔒 Closed issue [#1465](https://github.com/totaldebug/atomic-calendar-revive/issues/1465) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 5. 🗣 Commented on [#1506](https://github.com/totaldebug/atomic-calendar-revive/pull/1506#issuecomment-2194189519) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
