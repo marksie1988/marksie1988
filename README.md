@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#386](https://github.com/totaldebug/atomic-calendar-revive/issues/386#issuecomment-2395081874) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🗣 Commented on [#1553](https://github.com/totaldebug/atomic-calendar-revive/issues/1553#issuecomment-2317252015) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. ❗ Opened issue [#2](https://github.com/marksie1988/dotfiles/issues/2) in [marksie1988/dotfiles](https://github.com/marksie1988/dotfiles)
-4. ❗ Opened issue [#1](https://github.com/marksie1988/dotfiles/issues/1) in [marksie1988/dotfiles](https://github.com/marksie1988/dotfiles)
-5. 🗣 Commented on [#1506](https://github.com/totaldebug/atomic-calendar-revive/pull/1506#issuecomment-2194189519) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🎉 Merged PR [#1590](https://github.com/totaldebug/atomic-calendar-revive/pull/1590) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 💪 Opened PR [#1590](https://github.com/totaldebug/atomic-calendar-revive/pull/1590) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🎉 Merged PR [#1581](https://github.com/totaldebug/atomic-calendar-revive/pull/1581) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🗣 Commented on [#386](https://github.com/totaldebug/atomic-calendar-revive/issues/386#issuecomment-2395081874) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🗣 Commented on [#1553](https://github.com/totaldebug/atomic-calendar-revive/issues/1553#issuecomment-2317252015) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
