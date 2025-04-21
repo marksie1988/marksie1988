@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1635](https://github.com/totaldebug/atomic-calendar-revive/pull/1635) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 💪 Opened PR [#1635](https://github.com/totaldebug/atomic-calendar-revive/pull/1635) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🎉 Merged PR [#1634](https://github.com/totaldebug/atomic-calendar-revive/pull/1634) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 💪 Opened PR [#1634](https://github.com/totaldebug/atomic-calendar-revive/pull/1634) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. ❗ Opened issue [#1630](https://github.com/totaldebug/atomic-calendar-revive/issues/1630) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🗣 Commented on [#1607](https://github.com/totaldebug/atomic-calendar-revive/issues/1607#issuecomment-2818485682) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🔒 Closed issue [#1607](https://github.com/totaldebug/atomic-calendar-revive/issues/1607) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🗣 Commented on [#1630](https://github.com/totaldebug/atomic-calendar-revive/issues/1630#issuecomment-2818443111) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🔒 Closed issue [#1630](https://github.com/totaldebug/atomic-calendar-revive/issues/1630) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🎉 Merged PR [#1635](https://github.com/totaldebug/atomic-calendar-revive/pull/1635) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
