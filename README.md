@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/periphery-security/action-privy/pull/6) in [periphery-security/action-privy](https://github.com/periphery-security/action-privy)
-2. 🗣 Commented on [#1626](https://github.com/totaldebug/atomic-calendar-revive/issues/1626#issuecomment-2820280010) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🗣 Commented on [#1607](https://github.com/totaldebug/atomic-calendar-revive/issues/1607#issuecomment-2818485682) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🔒 Closed issue [#1607](https://github.com/totaldebug/atomic-calendar-revive/issues/1607) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🗣 Commented on [#1630](https://github.com/totaldebug/atomic-calendar-revive/issues/1630#issuecomment-2818443111) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🗣 Commented on [#40](https://github.com/Textualize/trogon/pull/40#issuecomment-2833384083) in [Textualize/trogon](https://github.com/Textualize/trogon)
+2. ❗ Opened issue [#115](https://github.com/Textualize/trogon/issues/115) in [Textualize/trogon](https://github.com/Textualize/trogon)
+3. 🎉 Merged PR [#6](https://github.com/periphery-security/action-privy/pull/6) in [periphery-security/action-privy](https://github.com/periphery-security/action-privy)
+4. 🗣 Commented on [#1626](https://github.com/totaldebug/atomic-calendar-revive/issues/1626#issuecomment-2820280010) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🗣 Commented on [#1607](https://github.com/totaldebug/atomic-calendar-revive/issues/1607#issuecomment-2818485682) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
