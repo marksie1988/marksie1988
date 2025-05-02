@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#172](https://github.com/kornelski/cargo-deb/issues/172) in [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)
-2. 🗣 Commented on [#40](https://github.com/Textualize/trogon/pull/40#issuecomment-2833384083) in [Textualize/trogon](https://github.com/Textualize/trogon)
-3. ❗ Opened issue [#115](https://github.com/Textualize/trogon/issues/115) in [Textualize/trogon](https://github.com/Textualize/trogon)
-4. 🎉 Merged PR [#6](https://github.com/periphery-security/action-privy/pull/6) in [periphery-security/action-privy](https://github.com/periphery-security/action-privy)
-5. 🗣 Commented on [#1626](https://github.com/totaldebug/atomic-calendar-revive/issues/1626#issuecomment-2820280010) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🗣 Commented on [#172](https://github.com/kornelski/cargo-deb/issues/172#issuecomment-2847125865) in [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)
+2. 🔒 Closed issue [#172](https://github.com/kornelski/cargo-deb/issues/172) in [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)
+3. ❗ Opened issue [#172](https://github.com/kornelski/cargo-deb/issues/172) in [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)
+4. 🗣 Commented on [#40](https://github.com/Textualize/trogon/pull/40#issuecomment-2833384083) in [Textualize/trogon](https://github.com/Textualize/trogon)
+5. ❗ Opened issue [#115](https://github.com/Textualize/trogon/issues/115) in [Textualize/trogon](https://github.com/Textualize/trogon)
 <!--END_SECTION:activity-->
 
 </details>
