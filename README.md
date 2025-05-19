@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#172](https://github.com/kornelski/cargo-deb/issues/172#issuecomment-2847125865) in [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)
-2. 🔒 Closed issue [#172](https://github.com/kornelski/cargo-deb/issues/172) in [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)
-3. ❗ Opened issue [#172](https://github.com/kornelski/cargo-deb/issues/172) in [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)
-4. 🗣 Commented on [#40](https://github.com/Textualize/trogon/pull/40#issuecomment-2833384083) in [Textualize/trogon](https://github.com/Textualize/trogon)
-5. ❗ Opened issue [#115](https://github.com/Textualize/trogon/issues/115) in [Textualize/trogon](https://github.com/Textualize/trogon)
+1. 🗣 Commented on [#3689](https://github.com/markedjs/marked/issues/3689#issuecomment-2890186786) in [markedjs/marked](https://github.com/markedjs/marked)
+2. 🗣 Commented on [#172](https://github.com/kornelski/cargo-deb/issues/172#issuecomment-2847125865) in [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)
+3. 🔒 Closed issue [#172](https://github.com/kornelski/cargo-deb/issues/172) in [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)
+4. ❗ Opened issue [#172](https://github.com/kornelski/cargo-deb/issues/172) in [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb)
+5. 🗣 Commented on [#40](https://github.com/Textualize/trogon/pull/40#issuecomment-2833384083) in [Textualize/trogon](https://github.com/Textualize/trogon)
 <!--END_SECTION:activity-->
 
 </details>
