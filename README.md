@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/periphery-security/action-trissue/pull/16) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
-2. 💪 Opened PR [#16](https://github.com/periphery-security/action-trissue/pull/16) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
-3. 🎉 Merged PR [#13](https://github.com/periphery-security/action-trissue/pull/13) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
-4. 🗣 Commented on [#13](https://github.com/periphery-security/action-trissue/pull/13#issuecomment-2965661140) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
-5. 🗣 Commented on [#14](https://github.com/periphery-security/action-trissue/pull/14#issuecomment-2965660592) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
+1. 🎉 Merged PR [#1689](https://github.com/totaldebug/atomic-calendar-revive/pull/1689) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🎉 Merged PR [#1690](https://github.com/totaldebug/atomic-calendar-revive/pull/1690) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🎉 Merged PR [#1691](https://github.com/totaldebug/atomic-calendar-revive/pull/1691) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🗣 Commented on [#1691](https://github.com/totaldebug/atomic-calendar-revive/pull/1691#issuecomment-3194663196) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🎉 Merged PR [#1653](https://github.com/totaldebug/atomic-calendar-revive/pull/1653) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
