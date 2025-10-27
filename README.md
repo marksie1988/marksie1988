@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1161](https://github.com/googleapis/release-please-action/issues/1161#issuecomment-3451733981) in [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
-2. 💪 Opened PR [#1](undefined) in [marksie1988/test-release-please](https://github.com/marksie1988/test-release-please)
-3.  Labeled issue [#1161](https://github.com/googleapis/release-please-action/issues/1161) in [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
-4.  Labeled issue [#1161](https://github.com/googleapis/release-please-action/issues/1161) in [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
-5. ❗ Opened issue [#1161](https://github.com/googleapis/release-please-action/issues/1161) in [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
+1. 🗣 Commented on [#975](https://github.com/googleapis/release-please-action/issues/975#issuecomment-3452058803) in [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
+2. 🗣 Commented on [#1161](https://github.com/googleapis/release-please-action/issues/1161#issuecomment-3452007243) in [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
+3. 🗣 Commented on [#1161](https://github.com/googleapis/release-please-action/issues/1161#issuecomment-3451733981) in [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
+4. 💪 Opened PR [#1](undefined) in [marksie1988/test-release-please](https://github.com/marksie1988/test-release-please)
+5.  Labeled issue [#1161](https://github.com/googleapis/release-please-action/issues/1161) in [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
 <!--END_SECTION:activity-->
 
 </details>
