@@ -56,9 +56,9 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2327](https://github.com/Redocly/redocly-cli/issues/2327#issuecomment-3339173980) in [Redocly/redocly-cli](https://github.com/Redocly/redocly-cli)
-2. 🎉 Merged PR [#1689](https://github.com/totaldebug/atomic-calendar-revive/pull/1689) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🎉 Merged PR [#1690](https://github.com/totaldebug/atomic-calendar-revive/pull/1690) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1.  Labeled issue [#1161](https://github.com/googleapis/release-please-action/issues/1161) in [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
+2.  Labeled issue [#1161](https://github.com/googleapis/release-please-action/issues/1161) in [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
+3. ❗ Opened issue [#1161](https://github.com/googleapis/release-please-action/issues/1161) in [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
 4. 🎉 Merged PR [#1691](https://github.com/totaldebug/atomic-calendar-revive/pull/1691) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 5. 🗣 Commented on [#1691](https://github.com/totaldebug/atomic-calendar-revive/pull/1691#issuecomment-3194663196) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
