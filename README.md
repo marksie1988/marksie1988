@@ -41,11 +41,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ditch the Manual Chore: Automating Releases and Versioning with release-please](https://totaldebug.uk/posts/ditch-the-manual-chore-automating-releases-and-versions/)
 - [Getting Started with OpenTofu: Infrastructure as Code for Cloud Providers](https://totaldebug.uk/posts/opentofu-getting-started/)
 - [Automatically Join Octopus Energy Saving Sessions](https://totaldebug.uk/posts/automatically-join-octopus-energy-saving-session/)
 - [Automated release with Semantic Release and commitizen](https://totaldebug.uk/posts/automated-release-with-semantic-release-and-commitizen/)
 - [Hell Let Loose, better performance and visibility settings](https://totaldebug.uk/posts/hll-better-performance-visibility/)
-- [Setup the Sunsynk Power Flow Card with a Lux Inverter](https://totaldebug.uk/posts/sunsynk-power-flow-card-with-lux-inverter/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://totaldebug.uk/blog/)
