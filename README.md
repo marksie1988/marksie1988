@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#975](https://github.com/googleapis/release-please-action/issues/975#issuecomment-3452058803) in [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
-2. 🗣 Commented on [#1161](https://github.com/googleapis/release-please-action/issues/1161#issuecomment-3452007243) in [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
-3. 🗣 Commented on [#1161](https://github.com/googleapis/release-please-action/issues/1161#issuecomment-3451733981) in [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
-4. 💪 Opened PR [#1](undefined) in [marksie1988/test-release-please](https://github.com/marksie1988/test-release-please)
-5.  Labeled issue [#1161](https://github.com/googleapis/release-please-action/issues/1161) in [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
+1. ❌ Closed PR [#32](undefined) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
+2. ❌ Closed PR [#34](undefined) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
+3. 🗣 Commented on [#19](https://github.com/periphery-security/action-trissue/pull/19#issuecomment-3480990624) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
+4. 🗣 Commented on [#18](https://github.com/periphery-security/action-trissue/pull/18#issuecomment-3480989749) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
+5. ❌ Closed PR [#20](undefined) in [periphery-security/action-privy](https://github.com/periphery-security/action-privy)
 <!--END_SECTION:activity-->
 
 </details>
