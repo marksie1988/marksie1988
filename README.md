@@ -56,10 +56,10 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/mystilleef/gemini-cli-modes/issues/1#issuecomment-3633382485) in [mystilleef/gemini-cli-modes](https://github.com/mystilleef/gemini-cli-modes)
-2. ❗ Opened issue [#1](https://github.com/mystilleef/gemini-cli-modes/issues/1) in [mystilleef/gemini-cli-modes](https://github.com/mystilleef/gemini-cli-modes)
-3. ❌ Closed PR [#34](undefined) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
-4. 🗣 Commented on [#19](https://github.com/periphery-security/action-trissue/pull/19#issuecomment-3480990624) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
+1.  Labeled issue [#14884](https://github.com/google-gemini/gemini-cli/issues/14884) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+2. ❗ Opened issue [#14884](https://github.com/google-gemini/gemini-cli/issues/14884) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+3. 🗣 Commented on [#1](https://github.com/mystilleef/gemini-cli-modes/issues/1#issuecomment-3633382485) in [mystilleef/gemini-cli-modes](https://github.com/mystilleef/gemini-cli-modes)
+4. ❗ Opened issue [#1](https://github.com/mystilleef/gemini-cli-modes/issues/1) in [mystilleef/gemini-cli-modes](https://github.com/mystilleef/gemini-cli-modes)
 5. 🗣 Commented on [#18](https://github.com/periphery-security/action-trissue/pull/18#issuecomment-3480989749) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
 <!--END_SECTION:activity-->
 
