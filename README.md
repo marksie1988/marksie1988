@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3464](https://github.com/project-zot/zot/issues/3464#issuecomment-3789819955) in [project-zot/zot](https://github.com/project-zot/zot)
-2. 🗣 Commented on [#1739](https://github.com/totaldebug/atomic-calendar-revive/issues/1739#issuecomment-3772777169) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🔒 Closed issue [#1739](https://github.com/totaldebug/atomic-calendar-revive/issues/1739) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🗣 Commented on [#1739](https://github.com/totaldebug/atomic-calendar-revive/issues/1739#issuecomment-3772485337) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🔒 Closed issue [#1734](https://github.com/totaldebug/atomic-calendar-revive/issues/1734) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 💪 Opened PR [#3737](https://github.com/project-zot/zot/pull/3737) in [project-zot/zot](https://github.com/project-zot/zot)
+2. 🗣 Commented on [#3464](https://github.com/project-zot/zot/issues/3464#issuecomment-3799236186) in [project-zot/zot](https://github.com/project-zot/zot)
+3. 🗣 Commented on [#3464](https://github.com/project-zot/zot/issues/3464#issuecomment-3789819955) in [project-zot/zot](https://github.com/project-zot/zot)
+4. 🗣 Commented on [#1739](https://github.com/totaldebug/atomic-calendar-revive/issues/1739#issuecomment-3772777169) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🔒 Closed issue [#1739](https://github.com/totaldebug/atomic-calendar-revive/issues/1739) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
