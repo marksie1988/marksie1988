@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/periphery-security/edgewalker/pull/8) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
-2. 🗣 Commented on [#3737](https://github.com/project-zot/zot/pull/3737#issuecomment-3908500455) in [project-zot/zot](https://github.com/project-zot/zot)
-3. ❗ Opened issue [#2](https://github.com/mystilleef/gemini-cli-modes/issues/2) in [mystilleef/gemini-cli-modes](https://github.com/mystilleef/gemini-cli-modes)
-4. 🗣 Commented on [#3737](https://github.com/project-zot/zot/pull/3737#issuecomment-3896679997) in [project-zot/zot](https://github.com/project-zot/zot)
-5. 🗣 Commented on [#3737](https://github.com/project-zot/zot/pull/3737#issuecomment-3890216831) in [project-zot/zot](https://github.com/project-zot/zot)
+1. 🎉 Merged PR [#8](https://github.com/periphery-security/edgewalker/pull/8) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
+2. 💪 Opened PR [#8](https://github.com/periphery-security/edgewalker/pull/8) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
+3. 🗣 Commented on [#3737](https://github.com/project-zot/zot/pull/3737#issuecomment-3908500455) in [project-zot/zot](https://github.com/project-zot/zot)
+4. ❗ Opened issue [#2](https://github.com/mystilleef/gemini-cli-modes/issues/2) in [mystilleef/gemini-cli-modes](https://github.com/mystilleef/gemini-cli-modes)
+5. 🗣 Commented on [#3737](https://github.com/project-zot/zot/pull/3737#issuecomment-3896679997) in [project-zot/zot](https://github.com/project-zot/zot)
 <!--END_SECTION:activity-->
 
 </details>
