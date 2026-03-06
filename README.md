@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/periphery-security/edgewalker/pull/14) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
-2. 💪 Opened PR [#14](https://github.com/periphery-security/edgewalker/pull/14) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
-3. 🎉 Merged PR [#8](https://github.com/periphery-security/edgewalker/pull/8) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
-4. 💪 Opened PR [#8](https://github.com/periphery-security/edgewalker/pull/8) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
-5. 🗣 Commented on [#3737](https://github.com/project-zot/zot/pull/3737#issuecomment-3908500455) in [project-zot/zot](https://github.com/project-zot/zot)
+1. 🗣 Commented on [#10](https://github.com/periphery-security/edgewalker/pull/10#issuecomment-4012548819) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
+2. 🎉 Merged PR [#14](https://github.com/periphery-security/edgewalker/pull/14) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
+3. 💪 Opened PR [#14](https://github.com/periphery-security/edgewalker/pull/14) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
+4. 🎉 Merged PR [#8](https://github.com/periphery-security/edgewalker/pull/8) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
+5. 💪 Opened PR [#8](https://github.com/periphery-security/edgewalker/pull/8) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
 <!--END_SECTION:activity-->
 
 </details>
