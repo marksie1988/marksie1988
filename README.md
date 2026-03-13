@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/periphery-security/edgewalker/pull/13) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
-2. 🎉 Merged PR [#19](https://github.com/periphery-security/edgewalker/pull/19) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
-3. 💪 Opened PR [#19](https://github.com/periphery-security/edgewalker/pull/19) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
-4. 🎉 Merged PR [#12](https://github.com/periphery-security/edgewalker/pull/12) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
-5. 🎉 Merged PR [#18](https://github.com/periphery-security/edgewalker/pull/18) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
+1. 🗣 Commented on [#20](https://github.com/periphery-security/action-trissue/pull/20#issuecomment-4053779789) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
+2. 🗣 Commented on [#58](https://github.com/periphery-security/action-trissue/pull/58#issuecomment-4053778930) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
+3. 🗣 Commented on [#59](https://github.com/periphery-security/action-trissue/pull/59#issuecomment-4053778109) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
+4. ❌ Closed PR [#63](https://github.com/periphery-security/action-trissue/pull/63) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
+5. ❌ Closed PR [#62](https://github.com/periphery-security/action-trissue/pull/62) in [periphery-security/action-trissue](https://github.com/periphery-security/action-trissue)
 <!--END_SECTION:activity-->
 
 </details>
