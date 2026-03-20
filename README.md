@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#180](https://github.com/totaldebug/pyarr/pull/180) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-2. 🔒 Closed issue [#174](https://github.com/totaldebug/pyarr/issues/174) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-3. 💪 Opened PR [#180](https://github.com/totaldebug/pyarr/pull/180) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-4. 🗣 Commented on [#1623](https://github.com/totaldebug/atomic-calendar-revive/issues/1623#issuecomment-4096828433) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🗣 Commented on [#1745](https://github.com/totaldebug/atomic-calendar-revive/issues/1745#issuecomment-4096826709) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🗣 Commented on [#162](https://github.com/totaldebug/pyarr/issues/162#issuecomment-4101134943) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+2. 🗣 Commented on [#165](https://github.com/totaldebug/pyarr/issues/165#issuecomment-4101134355) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+3. 🗣 Commented on [#169](https://github.com/totaldebug/pyarr/issues/169#issuecomment-4101133496) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+4. 🗣 Commented on [#171](https://github.com/totaldebug/pyarr/issues/171#issuecomment-4101133211) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🗣 Commented on [#172](https://github.com/totaldebug/pyarr/issues/172#issuecomment-4101132689) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 <!--END_SECTION:activity-->
 
 </details>
