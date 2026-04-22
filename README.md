@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/periphery-security/edgewalker/pull/31) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
-2. 🗣 Commented on [#20](https://github.com/periphery-security/edgewalker/pull/20#issuecomment-4158040093) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
-3. 🗣 Commented on [#21](https://github.com/periphery-security/edgewalker/pull/21#issuecomment-4158039358) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
-4. 🗣 Commented on [#24](https://github.com/periphery-security/edgewalker/pull/24#issuecomment-4158038546) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
-5. 🔒 Closed issue [#179](https://github.com/totaldebug/pyarr/issues/179) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+1. 🎉 Merged PR [#31](https://github.com/periphery-security/edgewalker/pull/31) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
+2. 💪 Opened PR [#31](https://github.com/periphery-security/edgewalker/pull/31) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
+3. 🗣 Commented on [#20](https://github.com/periphery-security/edgewalker/pull/20#issuecomment-4158040093) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
+4. 🗣 Commented on [#21](https://github.com/periphery-security/edgewalker/pull/21#issuecomment-4158039358) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
+5. 🗣 Commented on [#24](https://github.com/periphery-security/edgewalker/pull/24#issuecomment-4158038546) in [periphery-security/edgewalker](https://github.com/periphery-security/edgewalker)
 <!--END_SECTION:activity-->
 
 </details>
