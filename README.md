@@ -56,11 +56,11 @@ Remember, ***supporting me is entirely optional.*** Your choice to become a memb
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1750](https://github.com/totaldebug/atomic-calendar-revive/issues/1750#issuecomment-4322268299) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🗣 Commented on [#1753](https://github.com/totaldebug/atomic-calendar-revive/issues/1753#issuecomment-4322266673) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🗣 Commented on [#1755](https://github.com/totaldebug/atomic-calendar-revive/issues/1755#issuecomment-4322264234) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. ℹ️ Labeled issue [#1715](https://github.com/totaldebug/atomic-calendar-revive/issues/1715) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. ℹ️ Unlabeled issue [#1715](https://github.com/totaldebug/atomic-calendar-revive/issues/1715) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🗣 Commented on [#1751](https://github.com/totaldebug/atomic-calendar-revive/pull/1751#issuecomment-4322386890) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. ❌ Closed PR [#1752](https://github.com/totaldebug/atomic-calendar-revive/pull/1752) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🗣 Commented on [#1752](https://github.com/totaldebug/atomic-calendar-revive/pull/1752#issuecomment-4322382201) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🗣 Commented on [#1724](https://github.com/totaldebug/atomic-calendar-revive/pull/1724#issuecomment-4322379712) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🗣 Commented on [#1750](https://github.com/totaldebug/atomic-calendar-revive/issues/1750#issuecomment-4322268299) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
