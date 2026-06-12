@@ -1,38 +1,50 @@
-# [Steve Marks - marksie1988][website]
+# Hi, I'm Steve 👋 [![Website](https://img.shields.io/website?label=totaldebug.uk&style=flat-square&url=https%3A%2F%2Ftotaldebug.uk)](https://totaldebug.uk) [![](https://img.shields.io/badge/-in/marksie1988-%230077B5?style=flat-square&logo=linkedin)][linkedin]
 
-[![Website](https://img.shields.io/website?label=totaldebug.uk&style=flat-square&url=https%3A%2F%2Ftotaldebug.uk)](https://totaldebug.uk)
-[![](https://img.shields.io/badge/-@marksie1988-%23181717?style=flat-square&logo=github)](https://github.com/marksie1988)
-[![](https://img.shields.io/badge/-@totaldebug-%23181717?style=flat-square&logo=github)](https://github.com/totaldebug)
-[![](https://img.shields.io/badge/-@totaldebug-%23FF0000?style=flat-square&logo=youtube)][youtube]
-[![](https://img.shields.io/badge/-in/marksie1988-%230077B5?style=flat-square&logo=linkedin)][linkedin]
+### Lead Cloud Engineer & Full Stack Developer · Open-Source Maintainer · Blogger
+
+I design and operate production platforms on Google Cloud and build full-stack
+Python applications. Outside of work I maintain open-source projects, run a tech
+community, and write tutorials that make complex infrastructure topics approachable.
+
+**Tech I work with:**
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform/OpenTofu-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+| --- | --- |
+| **[EdgeWalker](https://github.com/periphery-security/edgewalker)** | A high-performance edge security scanner that audits networks for open ports, default credentials and known vulnerabilities. `Python` |
+| **[Atomic Calendar Revive](https://github.com/totaldebug/atomic-calendar-revive)** ⭐ 600+ | An advanced calendar card for Home Assistant Lovelace. `TypeScript` |
+
+---
 
 **Hey, there!**
 
-**I’m Steve, and I’m passionate about creating educational tech content for IT Pros and Homelab nerds.**
+**I'm Steve, and I'm passionate about creating educational tech content for IT Pros and Homelab nerds.**
 
-Through my blog, I’m sharing engaging tutorials, and write-ups that make complex topics easy to understand. Whether you're a tech enthusiast or just someone curious about IT, my content offers valuable insights and provides practical knowledge.
-
-Why am I doing all this? Because I just have a genuine love for IT and sharing my knowledge with others. I believe that by presenting what I've learned, I can inspire people to explore and experiment with technology themselves.
+Through my blog, I'm sharing engaging tutorials and write-ups that make complex topics easy to understand. Whether you're a tech enthusiast or just someone curious about IT, my content offers valuable insights and practical knowledge.
 
 ## Meet our Community
-And because I believe in the power of connection and collaboration, I’ve created a tech community on Discord. It's a fantastic place to connect with other IT professionals, tech enthusiasts and others who share your passion.
+I've created a tech community on Discord — a fantastic place to connect with other IT professionals and tech enthusiasts who share your passion.
 
 https://discord.totaldebug.uk
 
-## Write-Ups and Tutorials
-Don't forget to check out my written tutorials and documentation. You'll find helpful example code snippets, templates, and more to support your learning process.
-
-- [Blog][website] - This site contains all of my blog posts, tutorials, thoughts and other useful articles.
-- [Dotfiles](https://github.com/marksie1988/dotfiles) - My personal configuration files on Ubuntu
-- [Homelab](https://github.com/totaldebug/homelab) - Coming Soon... This is my entire Homelab documentation, and configurations for infrastructure, applications, networking, and more.
-
 ## Support me and make a difference
 
-Your sponsorship is worth far more than money to me. It tells me that the software I've written has impacted you in your day-to-day life. It acknowledges the humanity of the people who build and maintain the software you use every day. It says "thank you" to a human who rarely gets thanked.
-
-Any money that I receive as part of your sponsorship will go first towards defraying the costs of the projects on which I work; but everything else will get channelled back to the community.
-
-Remember, ***supporting me is entirely optional.*** Your choice to become a member or not won't change your access to my resources. You are also welcome to reach out to me on Discord, if you have any questions or feedback.
+Your sponsorship tells me that the software I've written has impacted your day-to-day life. Any money received goes first towards the costs of the projects I work on; everything else is channelled back to the community. ***Supporting me is entirely optional.***
 
 [![Sponsor][Sponsor]][Sponsor-url]
 
