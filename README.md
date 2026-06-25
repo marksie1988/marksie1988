@@ -68,11 +68,11 @@ Your sponsorship tells me that the software I've written has impacted your day-t
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/totaldebug/armadarr/pull/7#issuecomment-4793280236) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
-2. 🗣 Commented on [#9](https://github.com/totaldebug/armadarr/pull/9#issuecomment-4793142212) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
-3. 🗣 Commented on [#11](https://github.com/totaldebug/armadarr/pull/11#issuecomment-4793129521) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
-4. 🗣 Commented on [#13](https://github.com/totaldebug/armadarr/pull/13#issuecomment-4793099543) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
-5. 🗣 Commented on [#18](https://github.com/totaldebug/armadarr/pull/18#issuecomment-4793090725) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
+1. ❌ Closed PR [#22](https://github.com/totaldebug/armadarr/pull/22) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
+2. ❌ Closed PR [#21](https://github.com/totaldebug/armadarr/pull/21) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
+3. 🗣 Commented on [#19](https://github.com/totaldebug/armadarr/pull/19#issuecomment-4797286027) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
+4. ❌ Closed PR [#1773](https://github.com/totaldebug/atomic-calendar-revive/pull/1773) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🔒 Closed issue [#1790](https://github.com/totaldebug/atomic-calendar-revive/issues/1790) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
