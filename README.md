@@ -53,11 +53,11 @@ Your sponsorship tells me that the software I've written has impacted your day-t
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Run your own ChatGPT: self-hosted LLMs with Docker Compose](https://totaldebug.uk/posts/self-hosted-llms-ollama-open-webui-docker-compose/)
 - [A self-tuning write throttle for batch Postgres jobs](https://totaldebug.uk/posts/adaptive-write-throttle-for-batch-postgres-jobs/)
 - [Reviving an Abandoned Open-Source Project: 6 Years of Atomic Calendar Revive](https://totaldebug.uk/posts/reviving-an-abandoned-open-source-project/)
 - [Ditch the Manual Chore: Automating Releases and Versioning with release-please](https://totaldebug.uk/posts/ditch-the-manual-chore-automating-releases-and-versions/)
 - [Getting Started with OpenTofu: Infrastructure as Code for Cloud Providers](https://totaldebug.uk/posts/opentofu-getting-started/)
-- [Automatically Join Octopus Energy Saving Sessions](https://totaldebug.uk/posts/automatically-join-octopus-energy-saving-session/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://totaldebug.uk/blog/)
