@@ -68,11 +68,11 @@ Your sponsorship tells me that the software I've written has impacted your day-t
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/totaldebug/armadarr/pull/38) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
-2. 🎉 Merged PR [#36](https://github.com/totaldebug/armadarr/pull/36) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
-3. 💪 Opened PR [#36](https://github.com/totaldebug/armadarr/pull/36) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
-4. ❌ Closed PR [#3](https://github.com/totaldebug/resume.totaldebug.uk/pull/3) in [totaldebug/resume.totaldebug.uk](https://github.com/totaldebug/resume.totaldebug.uk)
-5. ❌ Closed PR [#20](https://github.com/totaldebug/armadarr/pull/20) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
+1. 🗣 Commented on [#31](https://github.com/totaldebug/armadarr/pull/31#issuecomment-5047213273) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
+2. 🗣 Commented on [#34](https://github.com/totaldebug/armadarr/pull/34#issuecomment-5047196538) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
+3. 🎉 Merged PR [#38](https://github.com/totaldebug/armadarr/pull/38) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
+4. 💪 Opened PR [#38](https://github.com/totaldebug/armadarr/pull/38) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
+5. 🎉 Merged PR [#36](https://github.com/totaldebug/armadarr/pull/36) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
 <!--END_SECTION:activity-->
 
 </details>
