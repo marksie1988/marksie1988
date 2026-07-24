@@ -68,11 +68,11 @@ Your sponsorship tells me that the software I've written has impacted your day-t
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1810](https://github.com/totaldebug/atomic-calendar-revive/pull/1810) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-2. 🎉 Merged PR [#1807](https://github.com/totaldebug/atomic-calendar-revive/pull/1807) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 💪 Opened PR [#1807](https://github.com/totaldebug/atomic-calendar-revive/pull/1807) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🗣 Commented on [#1776](https://github.com/totaldebug/atomic-calendar-revive/issues/1776#issuecomment-5056173371) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🔒 Closed issue [#1776](https://github.com/totaldebug/atomic-calendar-revive/issues/1776) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🗣 Commented on [#1794](https://github.com/totaldebug/atomic-calendar-revive/issues/1794#issuecomment-5068053040) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+2. 🎉 Merged PR [#1810](https://github.com/totaldebug/atomic-calendar-revive/pull/1810) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+3. 🔒 Closed issue [#1794](https://github.com/totaldebug/atomic-calendar-revive/issues/1794) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 💪 Opened PR [#1810](https://github.com/totaldebug/atomic-calendar-revive/pull/1810) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+5. 🎉 Merged PR [#1807](https://github.com/totaldebug/atomic-calendar-revive/pull/1807) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
 <!--END_SECTION:activity-->
 
 </details>
