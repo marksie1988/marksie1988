@@ -68,11 +68,11 @@ Your sponsorship tells me that the software I've written has impacted your day-t
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#194](https://github.com/totaldebug/pyarr/pull/194) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-2. 💪 Opened PR [#193](https://github.com/totaldebug/pyarr/pull/193) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
-3. 💪 Opened PR [#1820](https://github.com/totaldebug/atomic-calendar-revive/pull/1820) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-4. 🗣 Commented on [#1794](https://github.com/totaldebug/atomic-calendar-revive/issues/1794#issuecomment-5068053040) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-5. 🎉 Merged PR [#1810](https://github.com/totaldebug/atomic-calendar-revive/pull/1810) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+1. 🎉 Merged PR [#195](https://github.com/totaldebug/pyarr/pull/195) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+2. 🎉 Merged PR [#194](https://github.com/totaldebug/pyarr/pull/194) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+3. 🎉 Merged PR [#193](https://github.com/totaldebug/pyarr/pull/193) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+4. 💪 Opened PR [#195](https://github.com/totaldebug/pyarr/pull/195) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 🔒 Closed issue [#190](https://github.com/totaldebug/pyarr/issues/190) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 <!--END_SECTION:activity-->
 
 </details>
