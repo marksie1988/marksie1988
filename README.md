@@ -68,11 +68,11 @@ Your sponsorship tells me that the software I've written has impacted your day-t
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/totaldebug/armadarr/pull/53) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
-2. 🔒 Closed issue [#30](https://github.com/totaldebug/armadarr/issues/30) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
-3. 💪 Opened PR [#53](https://github.com/totaldebug/armadarr/pull/53) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
-4. 🎉 Merged PR [#52](https://github.com/totaldebug/armadarr/pull/52) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
-5. 💪 Opened PR [#52](https://github.com/totaldebug/armadarr/pull/52) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
+1. 💪 Opened PR [#55](https://github.com/totaldebug/armadarr/pull/55) in [totaldebug/armadarr](https://github.com/totaldebug/armadarr)
+2. ℹ️ Reopened PR [#212](https://github.com/totaldebug/pyarr/pull/212) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+3. ❌ Closed PR [#212](https://github.com/totaldebug/pyarr/pull/212) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+4. 🎉 Merged PR [#211](https://github.com/totaldebug/pyarr/pull/211) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
+5. 💪 Opened PR [#211](https://github.com/totaldebug/pyarr/pull/211) in [totaldebug/pyarr](https://github.com/totaldebug/pyarr)
 <!--END_SECTION:activity-->
 
 </details>
